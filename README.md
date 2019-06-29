@@ -9,3 +9,13 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 
 Copyright Allan Lab. Code released under the MIT License.
 
+Note: one time change in `_config.yml`
+```
+baseurl: "/wcsng"
+```
+
+Clone the repository. Install Jekyll. Run webpage on local server.
+```
+bundle exec jekyll serve
+```
+
