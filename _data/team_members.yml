@@ -12,7 +12,7 @@
 - name: Roshan Ayyalasomayajula
   photo: roshan.jpg
   info: PhD Student, started 2017
-  email: rsayallas@eng.ucsd.edu
+  email: sayallas@eng.ucsd.edu
   number_educ: 1
   education1: Roshan’s current research interests are in using wireless and computer vision techniques bolstered with machine learning algorithms. He focuses on applications such as detection, localization, and tracking of objects with a vision of autonomous vehicles.
   education2: 
@@ -22,7 +22,7 @@
 - name: Yeswanth Reddy G.
   photo: yeswanth.jpg
   info: PhD student, started 2017
-  email: 
+  email: yguddeti@eng.ucsd.edu
   number_educ: 1
   education1: Yeswanth is developing systems which explore new paradigms to interact with the RF spectrum for applications such as spectrum sensing and RF fingerprinting. Future projects include indoor AP synchronization for localization and distributed MIMO.
   education2: 
@@ -30,14 +30,14 @@
 - name: Manideep Dunna
   photo: manideep.jpg
   info: PhD Student, started 2018
-  email: 
+  email: mdunna@ucsd.edu
   number_educ: 1
   education1: Manideep is a first-year Ph.D. student at UCSD. His research focuses on designing low power wireless relays using backscatter communication techniques.
 
-- name: Ish Kumar Jain
+- name: <a href='www.ishjain.in'>Ish Kumar Jain</a>
   photo: ish.jpg
   info: PhD Student, started 2018
-  email: M.Leeuwenhoek@tudelft.nl
+  email: ikjain@ucsd.edu
   number_educ: 1
   education1: Ish is working on millimeter wave communications to provide high reliability and low latency for applications such as virtual reality and vehicular communications.
   education2:
@@ -47,9 +47,39 @@
 - name: Kshitiz Bansal
   photo: yeswanth.jpg
   info: PhD Student, started 2018
-  email: 
+  email: ksbansal@eng.ucsd.edu
   number_educ: 1
   education1:  Kshitiz is working on Radar and communications systems
+  education2:
+  education3:
+  education4:
+
+- name: Aditya Arun
+  photo: yeswanth.jpg
+  info: PhD Student, started 2019
+  email: aarun@eng.ucsd.edu
+  number_educ: 1
+  education1:  Localization
+  education2:
+  education3:
+  education4:
+
+- name: Raghav V Subbaraman
+  photo: yeswanth.jpg
+  info: PhD Student, started 2019
+  email: 
+  number_educ: 0
+  education1:  Spectrum Sensing
+  education2:
+  education3:
+  education4:
+
+- name: Agrim Gupta
+  photo: yeswanth.jpg
+  info: PhD Student, started 2019
+  email: 
+  number_educ: 0
+  education1:  
   education2:
   education3:
   education4:
