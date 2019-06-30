@@ -1,0 +1,14 @@
+- name: Hans Yu 
+  photo: rock.jpg
+  info: PhD student with Prof. Ramesh Rao
+  project: WiFi handovers
+  number_educ: 0
+  education1:
+
+- name: Patrick Ling 
+  photo: rock.jpg
+  info: Graduate Student Researcher UCSD
+  project: PHY Layer Design for Software Defined Radios
+  number_educ: 0
+  education1:
+

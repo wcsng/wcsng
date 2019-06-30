@@ -8,30 +8,73 @@
 #  education3:
 #  education4:
 
-- name: Corne Koks
+- name: Rohit Kumar
   photo: rock.jpg
-  info: Master student
+  info: Master student since 2018
   email: -@Physics.LeidenUniv.nl
+  project: Full Duplex
   number_educ: 0
   education1:
 
-- name: Corne Koks
+- name: Shruti Jain
   photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
+  info: Master student since 2018
+  project: Full Duplex
   number_educ: 0
   education1:
 
-- name: Corne Koks
+- name: Inderjot Singh
   photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
+  info: Master student since 2018
+  project: Machine Learning
   number_educ: 0
   education1:
 
-- name: Corne Koks
+- name: Aman Raj
   photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
+  info: Master student since 2018
+  project: SigNet
   number_educ: 0
   education1:
+
+- name: Sanatan Sharma
+  photo: rock.jpg
+  info: Master student since 2018
+  project: Machine Learning
+  number_educ: 0
+  education1:
+
+
+
+- name: Aman Goyal
+  photo: rock.jpg
+  info: Master student since 2018
+  project: OTFS communication
+  number_educ: 0
+  education1:
+
+- name: Shreya Nayak
+  photo: rock.jpg
+  info: Master student since 2018
+  project: OTFS communication
+  number_educ: 0
+  education1:
+
+- name: Tejas Sadarhalli
+  photo: rock.jpg
+  info: Master student since 2018
+  project: Millimeter Wave communications
+  number_educ: 0
+  education1:
+
+- name: Shrinidhi  
+  photo: rock.jpg
+  info: MS student since 2018
+  project: Wireless VR
+  number_educ: 0
+  education1:
+
+
+
+
+

@@ -11,9 +11,9 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## Staff
+## Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,10 +75,66 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+> “The strength of the team is each individual member. The strength of each member is the team.” –Phil Jackson
 
+## Collaborations
+
+{% assign number_printed = 0 %}
+{% for member in site.data.collaborations %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i><br>Project: {{ member.project }}
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 ## Master and Bachelor Students
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -90,7 +146,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}</i><br>Project: {{ member.project }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -165,7 +221,37 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+* Shrivatsan Rajagopalan (MS 2019) (Localization)
+* Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm)
+* Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel)
+* Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Oracle)
+* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Toyota)
+* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm)
+* Kavya Potluri (MS 2019) () (Now at Qualcomm)
+* Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at )
 
+### UCSD Summer Research Internship (SIP)
+#### Summer 2019
+* Chenfeng Wu (BS) (Robotics, localization)
+* Scott Zhao (BS) (VR tracking using Radar)
+* Shrinidhi (MS) (Wireless VR)
+* Keshav Mittal (BS) (Localization)
+* Karl Wang (BS)
+
+### International Summer Interns
+#### Summer 2019
+* Rushang Gupta (IITD) (Bluetooth localization)
+* Raunak Shah (IITK) (Machine Learning)
+* Aman Tiwari (IITD) (Localization)
+
+
+#### Summer 2018
+* Raghav Sonavane [IITD] (project)
+* Raghav Vaidyanathan Subbaraman [IITM] (spectrum sensing) (Highlight: NSDI 2018) (Now PhD at UCSD)
+* Sidharth Kumar [IITD] (Wireless power transfer) (Highlight: Mobisys 2019) (Now PhD at UT Austin)
+* Zihan Zhang [BUPT China] (Spectrum sensing) (Now MS at Michigan University)
+
+<!--
 <table align="center" style="width:100%">
  <tr>
     <th>Visitors</th>
@@ -213,6 +299,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
-
+-->
+<!--
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+-->
+
+
+
+
+
+
+
+
+

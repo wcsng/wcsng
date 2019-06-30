@@ -1,11 +1,13 @@
 ---
-title: "Allan Lab - Pictures"
+title: "WCSNG Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "WCSNG Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+# Group Pictures
+
+<!--
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
@@ -16,6 +18,8 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
+
+-->
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -26,7 +30,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -53,7 +57,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 <p> &nbsp; </p>
 
-First advertisement.
+<!--First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
 </figure>
@@ -76,3 +80,4 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
+-->
