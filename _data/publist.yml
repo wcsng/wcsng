@@ -6,6 +6,8 @@
     url: https://dl.acm.org/citation.cfm?id=3326077
     display:  \[Mobisys 2019\]
   highlight: 1
+  tag1: backscatter
+  tag2: misc
   news2:
 
 - title: "SparSDR: Sparsity-proportional Backhaul and Compute for SDRs"
@@ -16,6 +18,8 @@
     url: https://dl.acm.org/citation.cfm?id=3326088
     display:  \[Mobisys 2019\]
   highlight: 1
+  tag1: sensing
+  tag2: 
   news2:
 
 - title: "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
@@ -26,6 +30,8 @@
     url: https://www.usenix.org/conference/nsdi19/presentation/guddeti
     display:  \[NSDI 2018\]
   highlight: 1
+  tag1: sensing
+  tag2: 
   news1: The work on SweepSense won the <a href="https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2019-north-america">Qualcomm Innovation Fellowship 2019</a>
   news2: 
 
@@ -37,6 +43,8 @@
     url: http://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html
     display:  \[CVPR 2019\]
   highlight: 1
+  tag1: vehicular
+  tag2: misc
   news2:
 
 - title: "BLoc: CSI-based accurate localization for BLE tags"
@@ -47,6 +55,8 @@
     url: https://dl.acm.org/citation.cfm?id=3281428
     display: \[CoNext 2018\]
   highlight: 1
+  tag1: backscatter
+  tag2: localization
   news2:
 
 - title: "FreeRider: Backscatter Communication Using Commodity Radios"
@@ -57,6 +67,8 @@
     url: https://dl.acm.org/citation.cfm?id=3143374
     display:  \[CoNext 2017\]
   highlight: 0
+  tag1: backscatter
+  tag2: communication
   news2: 
 
 - title: Enabling high-quality untethered virtual reality
@@ -67,6 +79,8 @@
     url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari
     display:  \[NSDI 2017\]
   highlight: 0
+  tag1: vr
+  tag2: 
   news2:
 
 - title: "Hitchhike: Practical backscatter using commodity wifi"
@@ -78,6 +92,8 @@
     url: https://dl.acm.org/citation.cfm?id=2994565
     display: \[SenSys 2016\]
   highlight: 0
+  tag1: backscatter
+  tag2: 
 
 - title: Cutting the cord in virtual reality
   image: TIBB.png
@@ -88,6 +104,8 @@
     url: https://dl.acm.org/citation.cfm?id=3005770
     display: \[HotNets 2016\]
   highlight: 0
+  tag1: vr
+  tag2: 
 
 - title: "Numfabric: Fast and flexible bandwidth allocation in datacenters"
   image: Mott_phase_sep.jpg
@@ -98,6 +116,8 @@
     url: https://dl.acm.org/citation.cfm?id=2934890
     display: \[Sigcomm 2016\]
   highlight: 0
+  tag1: misc
+  tag2: 
   news2: 
 
 - title: "Enabling backscatter communication among commodity wifi radios"
@@ -110,6 +130,8 @@
     display: \[Sigcomm 2016\]
   highlight: 0
   news2: 
+  tag1: backscatter
+  tag2: 
 
 - title: "Backfi: High throughput wifi backscatter"
   image: Mott_phase_sep.jpg
@@ -121,6 +143,8 @@
     display: \[Sigcomm 2015\]
   highlight: 0
   news2: 
+  tag1: backscatter
+  tag2: 
 
 
 - title: "Spotfi: Decimeter level localization using wifi"
@@ -133,6 +157,8 @@
     display: \[Sigcomm 2015\]
   highlight: 0
   news2: 
+  tag1: localization
+  tag2: 
 
 - title: "Fastforward: Fast and constructive full duplex relays"
   image: 
@@ -144,6 +170,8 @@
     display: \[Sigcomm 2015\]
   highlight: 0
   news2: 
+  tag1: fullduplex
+  tag2: 
 
 - title: "WiDeo: Fine-grained Device-free Motion Tracing using {RF} Backscatter"
   image: 
@@ -154,6 +182,8 @@
     url: https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi
     display: \[NSDI 2015\]
   highlight: 0
+  tag1: backscatter
+  tag2: localization
   news2: 
 
 - title: "Spoton: Indoor localization using commercial off-the-shelf wifi nics"
@@ -165,6 +195,8 @@
     url: https://www.microsoft.com/en-us/research/wp-content/uploads/2014/10/ipsn_kotaru.pdf
     display: \[IPSN 2015\]
   highlight: 0
+  tag1: localization
+  tag2: 
   news2: 
 
 - title: "Robust full duplex radio link"
@@ -177,6 +209,8 @@
     display: \[Sigcomm 2014\]
   highlight: 0
   news2: 
+  tag1: fullduplex
+  tag2: 
 
 - title: "Full Duplex {MIMO} Radios"
   image: 
@@ -188,6 +222,8 @@
     display: \[NSDI 2014\]
   highlight: 0
   news2: 
+  tag1: fullduplex
+  tag2: 
 
 - title: "QualComp: a new lossy compressor for quality scores based on rate distortion theory"
   image: 
@@ -199,6 +235,8 @@
     display: \[BMC bioinformatics 2013\]
   highlight: 0
   news2: 
+  tag1: communication
+  tag2: 
 
 - title: "Full duplex backscatter"
   image: 
@@ -210,6 +248,8 @@
     display: \[HotNets 2013\]
   highlight: 0
   news2: 
+  tag1: fullduplex
+  tag2: 
 
 - title: "Full duplex radios"
   image: fullduplex.png
@@ -221,6 +261,8 @@
     display: \[Sigcomm 2013\]
   highlight: 1
   news1: Citation count > 1500
+  tag1: fullduplex
+  tag2: 
 
 - title: "Practical, real-time, full duplex wireless"
   image: 
@@ -232,6 +274,8 @@
     display: \[Mobicom 2011\]
   highlight: 0
   news1: 
+  tag1: fullduplex
+  tag2: 
 
 - title: "Relay and power allocation schemes for OFDM-based cognitive radio systems"
   image: 
@@ -243,6 +287,8 @@
     display: \[IEEE Transactions on Wireless Communications 2011\]
   highlight: 0
   news1: 
+  tag1: communication
+  tag2: 
 
 
 

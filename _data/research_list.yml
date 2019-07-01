@@ -3,7 +3,7 @@
   description: We develop state-of-the-art methods for locating WiFi devices and BLE (Bluetooth Low Energy) tags.
   authors: 
   link:
-    url: 
+    url: /localization
     display:  Details and Publications
   highlight: 1
   news2:
@@ -13,7 +13,7 @@
   description: Fast sensing of wide wireless spectrum using commodity SDRs. How wide? How fast? What would you do with tons of wideband spectrum data?
   authors: 
   link:
-    url: 
+    url: /sensing
     display:  Details and Publications
   highlight: 1
   news2:
@@ -23,7 +23,7 @@
   description: Full Duplex is brought from Theory to practice. How to achieve self-interference cancellation and numerous applications.
   authors: 
   link:
-    url: 
+    url: /fullduplex
     display:  Details and Publications
   highlight: 1
   news1: 
@@ -33,7 +33,7 @@
   description: Millions of IoT devices are based on backscatter communication. Look for interesting applications based on backscatter principle e.g. Full Duplex relays.
   authors: 
   link:
-    url: 
+    url: /backscatter
     display:  Details and Publications
   highlight: 1
   news2:
@@ -43,7 +43,7 @@
   description: Self-Driving Cars with robust sensing (the environment) and communication (V2X). Find out why Radar sensing is necessary.
   authors: 
   link:
-    url: 
+    url: /vehicular
     display:  Details and Publications
   highlight: 1
   news2:
@@ -53,9 +53,27 @@
   description: Untethered VR with robust high quality wireless communication link. Infrastructure-free VR enabled by wireless tracking of VR headset.
   authors: 
   link:
-    url: 
+    url: /vr
     display:  Details and Publications
   highlight: 1
   news2:
 
+- title: "Wireless Communication"
+  image: comm.jpg
+  description: Improving the communication rate, efficiency, latency, and robustness using commodity WiFi and millimeter-wave radios.
+  authors: 
+  link:
+    url: /communication
+    display:  Details and Publications
+  highlight: 1
+  news2:
 
+- title: "Miscellaneous Research"
+  image: misc.jpg
+  description: Research on ancient caves or Mars landing vehicle! Explore the diversity of out-of-the-box research problems.
+  authors: 
+  link:
+    url: /misc-research
+    display:  Details and Publications
+  highlight: 1
+  news2:

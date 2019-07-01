@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(See Opportunities)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
@@ -224,25 +224,28 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 * Shrivatsan Rajagopalan (MS 2019) (Localization)
 * Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm)
 * Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel)
-* Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Oracle)
+* Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
 * Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Toyota)
 * Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm)
 * Kavya Potluri (MS 2019) () (Now at Qualcomm)
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at )
 
-### UCSD Summer Research Internship (SIP)
+### UCSD Summer Research Internship Program (SIP)
 #### Summer 2019
 * Chenfeng Wu (BS) (Robotics, localization)
 * Scott Zhao (BS) (VR tracking using Radar)
 * Shrinidhi (MS) (Wireless VR)
+* Aman Goyal (MS) (OTFS)
 * Keshav Mittal (BS) (Localization)
-* Karl Wang (BS)
+* Karl Wang (BS) (Backscatter)
+* Siyuan Zhu (BS) (Radar sensing)
+
 
 ### International Summer Interns
 #### Summer 2019
-* Rushang Gupta (IITD) (Bluetooth localization)
-* Raunak Shah (IITK) (Machine Learning)
-* Aman Tiwari (IITD) (Localization)
+* Rushang Gupta [IITD] (Bluetooth localization)
+* Raunak Shah [IITK] (Machine Learning)
+* Aman Tiwari [IITD] (Localization)
 
 
 #### Summer 2018

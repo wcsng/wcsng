@@ -1,4 +1,4 @@
-- name: Dinesh Bharadia
+- name: <a href='https://web.eng.ucsd.edu/~dineshb/'>Dinesh Bharadia</a>
   photo: dinesh.jpg
   info: Assistant Professor
   email: dineshb@ucsd.edu
@@ -9,7 +9,7 @@
 
 
 
-- name: Roshan Ayyalasomayajula
+- name: <a href='http://acsweb.ucsd.edu/~sayyalas/'>Roshan Ayyalasomayajula</a>
   photo: roshan.jpg
   info: PhD Student, started 2017
   email: sayallas@eng.ucsd.edu
@@ -34,7 +34,7 @@
   number_educ: 1
   education1: Manideep is a first-year Ph.D. student at UCSD. His research focuses on designing low power wireless relays using backscatter communication techniques.
 
-- name: <a href='www.ishjain.in'>Ish Kumar Jain</a>
+- name: <a href='https://ishjain.github.io/'>Ish Kumar Jain</a>
   photo: ish.jpg
   info: PhD Student, started 2018
   email: ikjain@ucsd.edu
@@ -84,12 +84,4 @@
   education3:
   education4:
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="">openings</a> for more info
-  email: dineshb@ucsd.edu
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+

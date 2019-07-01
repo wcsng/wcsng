@@ -6,7 +6,23 @@ sitemap: false
 permalink: /
 ---
 
-We at the WCSNG believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and data center networks.  Some of our impact areas are Medical Diagnosis, Telecommunications, VR, AR and Safety.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
+
+### Dinesh Bharadia
+Assistant Professor\\
+Department of Electrical Engineering\\
+University of California, San Diego
+
+
+
+
+## About
+
+We are proud members of <span style="color:blue">Wireless Communication Sensing and Networking Group (WCSNG).</span> We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
+
+
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -51,6 +67,7 @@ We at the WCSNG believe that progress is a result of unconventional thinking and
     <span class="sr-only">Next</span>
   </a>
 </div>
+
 
 
 
