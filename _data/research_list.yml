@@ -1,6 +1,6 @@
 - title: "Localization"
   image: localization.jpg
-  description: We develop state-of-the-art methods for locating WiFi devices and BLE (Bluetooth Low Energy) tags.
+  description: We develop state-of-the-art methods [BLoc, SpotFi, WiDeo, Spoton] for locating WiFi devices and BLE (Bluetooth Low Energy) tags. 
   authors: 
   link:
     url: /localization
@@ -10,7 +10,7 @@
 
 - title: "Spectrum Sensing"
   image: sensing.jpg
-  description: Fast sensing of wide wireless spectrum using commodity SDRs. How wide? How fast? What would you do with tons of wideband spectrum data?
+  description: Fast sensing of broad wireless spectrum using commodity SDRs. How wide? How fast? Think about what would you do with tons of wideband spectrum data.
   authors: 
   link:
     url: /sensing
@@ -20,7 +20,7 @@
 
 - title: "Full Duplex"
   image: fullDuplex.jpg
-  description: Full Duplex is brought from Theory to practice. How to achieve self-interference cancellation and numerous applications.
+  description: Full Duplex is brought from theory to practice. Learn how to achieve self-interference cancellation and its numerous applications.
   authors: 
   link:
     url: /fullduplex
@@ -30,7 +30,7 @@
 
 - title: "Backscatter"
   image: backscatter.jpg
-  description: Millions of IoT devices are based on backscatter communication. Look for interesting applications based on backscatter principle e.g. Full Duplex relays.
+  description: Millions of IoT devices work on backscatter principle. Look for other exciting applications, e.g., Full Duplex relays.
   authors: 
   link:
     url: /backscatter
@@ -40,7 +40,7 @@
 
 - title: "Vehicular Sensing (Radar)"
   image: v2x.jpg
-  description: Self-Driving Cars with robust sensing (the environment) and communication (V2X). Find out why Radar sensing is necessary.
+  description: Self-Driving Cars requires robust sensing (the environment) and communication (V2X). Find out the importance of Radar for sensing.
   authors: 
   link:
     url: /vehicular
@@ -50,7 +50,7 @@
 
 - title: "Virtual Reality"
   image: vr.jpg
-  description: Untethered VR with robust high quality wireless communication link. Infrastructure-free VR enabled by wireless tracking of VR headset.
+  description: We develop untethered VR with a robust, high-quality wireless communication link. Infrastructure-free VR enabled by wireless tracking of VR headset.
   authors: 
   link:
     url: /vr
@@ -60,7 +60,7 @@
 
 - title: "Wireless Communication"
   image: comm.jpg
-  description: Improving the communication rate, efficiency, latency, and robustness using commodity WiFi and millimeter-wave radios.
+  description: We are improving the communication rate, efficiency, low latency, and robustness using commodity WiFi and millimeter-wave radios.
   authors: 
   link:
     url: /communication
@@ -70,7 +70,7 @@
 
 - title: "Miscellaneous Research"
   image: misc.jpg
-  description: Research on ancient caves or Mars landing vehicle! Explore the diversity of out-of-the-box research problems.
+  description: Research on ancient caves or Mars landing vehicle! Explore the diversity of out-of-the-box research ideas.
   authors: 
   link:
     url: /misc-research
