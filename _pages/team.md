@@ -225,8 +225,8 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 * Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm)
 * Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel)
 * Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
-* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Toyota)
-* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm)
+* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Honda Research Institute, SJ)
+* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm, SD)
 * Kavya Potluri (MS 2019) () (Now at Qualcomm)
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at )
 
@@ -239,6 +239,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 * Keshav Mittal (BS) (Localization)
 * Karl Wang (BS) (Backscatter)
 * Siyuan Zhu (BS) (Radar sensing)
+* Jay (MS) (Machine Learning)
 
 
 ### International Summer Interns
