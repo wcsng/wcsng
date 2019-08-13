@@ -232,10 +232,11 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 ### UCSD Summer Research Internship Program (SIP)
 #### Summer 2019
-* Chenfeng Wu (BS) (Robotics, localization)
+* Chenfeng Wu (BS) (Robotics SLAM)
 * Scott Zhao (BS) (VR tracking using Radar)
 * Shrinidhi (MS) (Wireless VR)
 * Aman Goyal (MS) (OTFS)
+* Keshav Rungta (BS) (Radar sensing)
 * Keshav Mittal (BS) (Localization)
 * Karl Wang (BS) (Backscatter)
 * Siyuan Zhu (BS) (Radar sensing)
@@ -245,8 +246,8 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 ### International Summer Interns
 #### Summer 2019
 * Rushang Gupta [IITD] (Bluetooth localization)
-* Raunak Shah [IITK] (Machine Learning)
-* Aman Tiwari [IITD] (Localization)
+* Raunak Shah [IITK] (Machine Learning, Signet)
+* Aman Tiwari [IITD] (Phone SLAM)
 
 
 #### Summer 2018
