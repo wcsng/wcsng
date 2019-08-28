@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WCSNG_logo.png" class="img-responsive" width="25%" style="clear: right; padding-right: 30px;" />
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
 
