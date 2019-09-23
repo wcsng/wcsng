@@ -32,7 +32,7 @@
   info: PhD Student, started 2018
   email: mdunna@ucsd.edu
   number_educ: 1
-  education1: Manideep is a first-year Ph.D. student at UCSD. His research focuses on designing low power wireless relays using backscatter communication techniques.
+  education1: Manideep's research focuses on using backscatter techniques for low power wireless relays and in-body communications. 
 
 - name: <a href='https://ishjain.github.io/'>Ish Kumar Jain</a>
   photo: ish.jpg
@@ -78,6 +78,26 @@
   photo: yeswanth.jpg
   info: PhD Student, started 2019
   email: agg003@eng.ucsd.edu
+  number_educ: 0
+  education1:  
+  education2:
+  education3:
+  education4:
+
+- name: Nikhil Shinde
+  photo: yeswanth.jpg
+  info: PhD Student, started 2019
+  email: nshinde@eng.ucsd.edu
+  number_educ: 0
+  education1:  
+  education2:
+  education3:
+  education4:
+
+- name: Byungjun Kim
+  photo: yeswanth.jpg
+  info: PhD Student, started 2019
+  email: byk004@eng.ucsd.edu
   number_educ: 0
   education1:  
   education2:

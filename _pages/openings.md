@@ -22,7 +22,7 @@ It might be interesting to look at some past job advertisements. While the proje
 -->
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send an email. State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
+If you are interested in working with us as a PhD student or postdoc, please send an email directly to Dinesh Bharadia. State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 
 <!--There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).-->
 

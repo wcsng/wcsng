@@ -6,23 +6,24 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WCSNG_logo.png" class="img-responsive" width="25%" style="clear: right; padding-right: 30px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wcsnglogo.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" />
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
 
-### Dinesh Bharadia
+### [Dinesh Bharadia](https://web.eng.ucsd.edu/~dineshb/)
 Assistant Professor\\
 Department of Electrical Engineering\\
 University of California, San Diego
 
 
+Office: Atkinson Hall, 4308\\
+Email: dineshb [at] eng.ucsd.edu
 
+### About
 
-## About
+We are proud members of **Wireless Communication Sensing and Networking Group (WCSNG)**. We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
 
-We are proud members of <span style="color:blue">Wireless Communication Sensing and Networking Group (WCSNG).</span> We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
-
-
+We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We also develop customized testbed for full duplex and millimeter wave research. Our group targets top system conferences such as NSDI, Mobicom, Siggcom, Mobisys among others.
 
 
 
@@ -70,13 +71,6 @@ We are proud members of <span style="color:blue">Wireless Communication Sensing 
 </div>
 
 
-
-
-
-<!--To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
--->
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 

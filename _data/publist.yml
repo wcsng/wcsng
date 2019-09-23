@@ -60,8 +60,8 @@
   news2:
 
 - title: "FreeRider: Backscatter Communication Using Commodity Radios"
-  image: dummy.png
-  description: ""
+  image: freerider.png
+  description: "We introduce the design and implementation of FreeRider, the first system that enables backscatter communication with multiple commodity radios, such as 802.11g/n WiFi, ZigBee, and Bluetooth, while these radios are simultaneously used for productive data communication."
   authors: 	Pengyu Zhang, Colleen Josephson, 	Dinesh Bharadia, 	Sachin Katti
   link:
     url: https://dl.acm.org/citation.cfm?id=3143374
@@ -84,8 +84,20 @@
   news2:
 
 - title: "Hitchhike: Practical backscatter using commodity wifi"
-  image: SCAUweb.jpg
-  description: ""
+  image: hitchhike.png
+  description: "We present HitchHike, a low power backscatter system that
+can be deployed entirely using commodity WiFi infrastructure. With HitchHike, a low power tag reflects existing
+802.11b transmissions from a commodity WiFi transmitter,
+and the backscattered signals can then be decoded as a standard WiFi packet by a commodity 802.11b receiver. HitchHike’s key invention is a novel technique called codeword
+translation, which allows a backscatter tag to embed its
+information on standard 802.11b packets by just translating the original transmitted 802.11b codeword to another
+valid 802.11b codeword. This allows any 802.11b receiver
+to decode the backscattered packet, thus opening the doors
+for widespread deployment of low-power backscatter communication using widely available WiFi infrastructure. We
+show experimentally that HitchHike can achieve an uplink
+throughput of up to 300Kbps at ranges of up to 34m and
+ranges of up to 54m where it achieves a throughput of around
+200Kbps"
   authors:
     Pengyu Zhang, Dinesh Bharadia, Kiran Joshi, Sachin Katti
   link:
@@ -121,8 +133,12 @@
   news2: 
 
 - title: "Enabling backscatter communication among commodity wifi radios"
-  image: Mott_phase_sep.jpg
-  description: ""
+  image: enablingbackscatter.png
+  description: "In this paper, we look at making backscatter practical for
+ultra-low power on-body sensors by leveraging radios on existing smartphones and wearables (e.g. WiFi and Bluetooth).
+The difficulty lies in the fact that in order to extract the weak
+backscattered signal, the system needs to deal with self interference from the wireless carrier (WiFi or Bluetooth) without
+relying on built-in capability to cancel or reject the carrier interference."
   authors:
     Pengyu Zhang, Dinesh Bharadia, Kiran Joshi, Sachin Katti
   link:
@@ -134,8 +150,12 @@
   tag2: 
 
 - title: "Backfi: High throughput wifi backscatter"
-  image: Mott_phase_sep.jpg
-  description: ""
+  image: backfi.png
+  description: "We present BackFi, a novel communication system that enables high throughput, long range communication between
+very low power backscatter IoT sensors and WiFi APs using
+ambient WiFi transmissions as the excitation signal. Specifically, we show that it is possible to design IoT sensors and
+WiFi APs such that the WiFi AP in the process of transmitting data to normal WiFi clients can decode backscatter
+signals which the IoT sensors generate by modulating information on to the ambient WiFi transmission"
   authors:
     Dinesh Bharadia, Kiran Raj Joshi, Manikanta Kotaru, Sachin Katti
   link:
@@ -148,8 +168,19 @@
 
 
 - title: "Spotfi: Decimeter level localization using wifi"
-  image: 
-  description: ""
+  image: spotfi.png
+  description: "This paper presents the design and implementation of SpotFi,
+an accurate indoor localization system that can be deployed
+on commodity WiFi infrastructure. SpotFi only uses information that is already exposed by WiFi chips and does
+not require any hardware or firmware changes, yet achieves
+the same accuracy as state-of-the-art localization systems.
+SpotFi makes two key technical contributions. First, SpotFi
+incorporates super-resolution algorithms that can accurately
+compute the angle of arrival (AoA) of multipath components
+even when the access point (AP) has only three antennas.
+Second, it incorporates novel filtering and estimation techniques to identify AoA of direct path between the localization target and AP by assigning values for each path depending on how likely the particular path is the direct path. Our
+experiments in a multipath rich indoor environment show
+that SpotFi achieves a median accuracy of 40 cm and is robust to indoor hindrances such as obstacles and multipath."
   authors:
     Manikanta Kotaru, Kiran Joshi, Dinesh Bharadia, Sachin Katti
   link:
@@ -161,7 +192,7 @@
   tag2: 
 
 - title: "Fastforward: Fast and constructive full duplex relays"
-  image: 
+  image: fastforward.png
   description: ""
   authors:
     Dinesh Bharadia, Sachin Katti
@@ -174,8 +205,22 @@
   tag2: 
 
 - title: "WiDeo: Fine-grained Device-free Motion Tracing using {RF} Backscatter"
-  image: 
-  description: ""
+  image: wideo.png
+  description: "Could we build a motion tracing camera using wireless
+communication signals as the light source? This paper
+shows we can, we present the design and implementation of WiDeo, a novel system that enables accurate, high
+resolution, device free human motion tracing in indoor
+environments using WiFi signals and compact WiFi radios. The insight behind WiDeo is to mine the backscatter reflections from the environment that WiFi transmissions naturally produce to trace where reflecting objects
+are located and how they are moving. We invent novel
+backscatter measurement techniques that work in spite of
+the low bandwidth and dynamic range of WiFi radios,
+new algorithms that separate out the moving backscatter from the clutter that static reflectors produce and then
+trace the original motion that produced the backscatter
+in spite of the fact that it could have undergone multiple reflections. We prototype WiDeo using off-the-shelf
+software radios and show that it accurately traces motion
+even when there are multiple independent human motions
+occurring concurrently (up to 5) with a median error in
+the traced path of less than 7cm."
   authors:
     Kiran Joshi, Dinesh Bharadia, Manikanta Kotaru, Sachin Katti
   link:
@@ -187,8 +232,25 @@
   news2: 
 
 - title: "Spoton: Indoor localization using commercial off-the-shelf wifi nics"
-  image: 
-  description: ""
+  image: spoton.png
+  description: "We describe SpotOn, an accurate indoor localization system
+that works using existing WiFi access point infrastructure.
+SpotOn does not require any software or hardware modifications at the access points or the radio that needs to be
+located. Thus, SpotOn presents a case for widely deployable
+indoor localization system. SpotOn requires just a WiFi radio to be present on the target device to be located and can
+accurately localize even when the target device is stationary.
+This expands the application scenarios of SpotOn indoor localization system beyond localizing mobile devices carried by
+humans. SpotOn achieves localization using Channel State
+Information (CSI) calculated for each packet during regular
+WiFi OFDM communication. SpotOn owes its accuracy to
+its super-resolution algorithms to estimate the direction of
+the target device and novel triangulation algorithms which
+combine measurements from different WiFi access points to
+estimate the location of the transmitter.
+We implemented SpotOn using commercial off-the-shelf
+Intel 5300 WiFi NICs. SpotOn achieves localization accuracy of 0.6 m when the target device has significant number
+of access points in line-of-sight. Over all the locations in our
+test runs, SpotOn achieves localization accuracy of 1.5 m"
   authors:
     Manikanta Kotaru, Kiran Joshi, Dinesh Bharadia, Sachin Katti
   link:
@@ -200,7 +262,7 @@
   news2: 
 
 - title: "Robust full duplex radio link"
-  image: 
+  image: robustfd.png
   description: ""
   authors:
     Dinesh Bharadia, Kiran Joshi, Sachin Katti
@@ -213,8 +275,20 @@
   tag2: 
 
 - title: "Full Duplex {MIMO} Radios"
-  image: 
-  description: ""
+  image: fdmimo.png
+  description: "This paper presents the design and implementation of
+the first in-band full duplex WiFi-PHY based MIMO radios that practically achieve the theoretical doubling of
+throughput. Our design solves two fundamental challenges associated with MIMO full duplex: complexity
+and performance. Our design achieves full duplex with a
+cancellation design whose complexity scales almost linearly with the number of antennas, this complexity is
+close to the optimal possible. Further we also design
+novel digital estimation and cancellation algorithms that
+eliminate almost all interference and achieves the same
+performance as a single antenna full duplex SISO system, which is again the best possible performance. We
+prototype our design by building our own analog circuit
+boards and integrating them with a WiFi-PHY compatible standard WARP software radio implementation. We
+show experimentally that our design works robustly in
+noisy indoor environments, and provides close to the expected theoretical doubling of throughput in practice."
   authors:
     Dinesh Bharadia,  Sachin Katti
   link:
@@ -239,8 +313,16 @@
   tag2: 
 
 - title: "Full duplex backscatter"
-  image: 
-  description: ""
+  image: fdback.png
+  description: "This paper asks the following question: could we transform
+the radios found in our personal gadgets into powerful multipurpose scanning devices that can detect and locate tumors,
+guns, buried human bodies, a la the Star Trek Tricoder? Our
+key insight is that if radios could measure the backscatter
+of their own transmissions (i.e. reflections from the environment of their transmissions), then Tricorder-style powerful object detection and localization algorithms could be
+realized. In this paper we focus specifically on backscatter
+measurement, we describe novel circuits and algorithms that
+can be added to existing radios to enable them to accurately
+and concurrently receive and disentangle their own transmissions’ reflections and infer its properties."
   authors:
     Dinesh Bharadia, Kiran Raj Joshi, Sachin Katti
   link:
@@ -265,8 +347,14 @@
   tag2: 
 
 - title: "Practical, real-time, full duplex wireless"
-  image: 
-  description: 
+  image: practicalfd.png
+  description: This paper presents a full duplex radio design using signal inversion
+and adaptive cancellation. Signal inversion uses a simple design
+based on a balanced/unbalanced (Balun) transformer. This new design, unlike prior work, supports wideband and high power systems. In theory, this new design has no limitation on bandwidth or
+power. In practice, we find that the signal inversion technique alone
+can cancel at least 45dB across a 40MHz bandwidth. Further, combining signal inversion cancellation with cancellation in the digital
+domain can reduce self-interference by up to 73dB for a 10MHz
+OFDM signal.
   authors:
     Mayank Jain, Jung Il Choi, Taemin Kim, Dinesh Bharadia, Siddharth Seth, Kannan Srinivasan, Philip Levis, Sachin Katti, Prasun Sinha
   link:

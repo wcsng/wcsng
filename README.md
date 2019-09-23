@@ -20,3 +20,12 @@ bundle exec jekyll serve
 ```
 
 This command builds the webpage in the `_site` folder with all the html, CSS, and files. Just add, commit, and push the content to Github OR copy it to your webserver.
+
+
+How to edit the contents:
+
+Directory `_Data` 
+* `publist.yml` to add new paper index (title, abstract, authors, link).
+* `students.yml` for masters students
+* `team_member.yml` for PhDs
+* 
