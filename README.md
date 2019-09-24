@@ -26,6 +26,25 @@ How to edit the contents:
 
 Directory `_Data` 
 * `publist.yml` to add new paper index (title, abstract, authors, link).
-* `students.yml` for masters students
+* `research_list` six research categories details
+* `students.yml` for masters students, `colaborations` and `alumni`
 * `team_member.yml` for PhDs
-* 
+* `news.yml`
+* `pictures` add all jpg image list
+
+Directory `_pages`:
+A standard template for all pages
+```
+title: "WCSNG Lab - Research"
+layout: gridlay
+excerpt: "WCSNG Lab -- Research"
+sitemap: false
+permalink: /research/
+```
+* Dir `Research`: One page each for each research topics (6 of them)
+* `team.md`: ALumni and interns
+* `home`: Logo and first page items
+
+Directory `_includes`: to updata html files for header ("WCSNG @ UC San Diego"), footer, analytics, and news
+
+Directory `_layouts`: `homelay.html` has "Welcome to WCSNG" message. Other files not useful.

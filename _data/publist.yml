@@ -72,8 +72,23 @@
   news2: 
 
 - title: Enabling high-quality untethered virtual reality
-  image: dummy.png
-  description: ""
+  image: movr.png
+  description: "Today’s virtual reality (VR) headsets require a cable connection to a PC or game console. This cable significantly
+limits the player’s mobility and, hence, her VR experience. The high data rate requirement of this link (multiple Gbps) precludes its replacement by WiFi. Thus, in
+this paper, we focus on using mmWave technology to deliver multi-Gbps wireless communication between VR
+headsets and their game consoles. We address the two
+key problems that prevent existing mmWave links from
+being used in VR systems. First, mmWave signals suffer from a blockage problem, i.e., they operate mainly
+in line-of-sight and can be blocked by simple obstacles
+such as the player lifting her hand in front of the headset.
+Second, mmWave radios use highly directional antennas
+with very narrow beams; they work only when the transmitter’s beam is aligned with the receiver’s beam. Any
+small movement of the headset can break the alignment
+and stall the data stream. We present MoVR, a novel
+system that allows mmWave links to sustain high data
+rates even in the presence of a blockage and mobility.
+MoVR does this by introducing a smart mmWave mirror and leveraging VR headset tracking information. We
+implement MoVR and empirically demonstrate its performance using an HTC VR headset."
   authors: Omid Abari, Dinesh Bharadia, Austin Duffield, Dina Katabi
   link:
     url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari
@@ -108,8 +123,16 @@ ranges of up to 54m where it achieves a throughput of around
   tag2: 
 
 - title: Cutting the cord in virtual reality
-  image: TIBB.png
-  description: ""
+  image: cuttingcord.png
+  description: "Today’s virtual reality (VR) headsets require a cable connection to a PC or game console. This cable significantly limits
+the player’s mobility and hence her VR experience. The high
+data rate requirement of this link (multiple Gbps) precludes
+its replacement by WiFi. In this paper, we focus on using
+mmWave technology to deliver multi Gbps wireless communication between VR headsets and their game consoles. The
+challenge, however, is that mmWave signals can be easily
+blocked by the player’s hand or head motion. We describe
+a novel system design and algorithms that allow mmWave
+links to sustain high data rates even in the presence of blockage, enabling a high-quality untethered VR experience"
   authors:
     Omid Abari, Dinesh Bharadia, Austin Duffield, Dina Katabi
   link:
@@ -120,7 +143,7 @@ ranges of up to 54m where it achieves a throughput of around
   tag2: 
 
 - title: "Numfabric: Fast and flexible bandwidth allocation in datacenters"
-  image: Mott_phase_sep.jpg
+  image: numfabric.png
   description: ""
   authors:
     Kanthi Nagaraj, Dinesh Bharadia, Hongzi Mao, Sandeep Chinchali, Mohammad Alizadeh, Sachin Katti
@@ -300,7 +323,7 @@ noisy indoor environments, and provides close to the expected theoretical doubli
   tag2: 
 
 - title: "QualComp: a new lossy compressor for quality scores based on rate distortion theory"
-  image: 
+  image: qualcomp.png
   description: ""
   authors:
     Idoia Ochoa, Himanshu Asnani, Dinesh Bharadia, Mainak Chowdhury, Tsachy Weissman, Golan Yona
@@ -348,13 +371,13 @@ and concurrently receive and disentangle their own transmissions’ reflections 
 
 - title: "Practical, real-time, full duplex wireless"
   image: practicalfd.png
-  description: This paper presents a full duplex radio design using signal inversion
+  description: "This paper presents a full duplex radio design using signal inversion
 and adaptive cancellation. Signal inversion uses a simple design
 based on a balanced/unbalanced (Balun) transformer. This new design, unlike prior work, supports wideband and high power systems. In theory, this new design has no limitation on bandwidth or
 power. In practice, we find that the signal inversion technique alone
 can cancel at least 45dB across a 40MHz bandwidth. Further, combining signal inversion cancellation with cancellation in the digital
 domain can reduce self-interference by up to 73dB for a 10MHz
-OFDM signal.
+OFDM signal."
   authors:
     Mayank Jain, Jung Il Choi, Taemin Kim, Dinesh Bharadia, Siddharth Seth, Kannan Srinivasan, Philip Levis, Sachin Katti, Prasun Sinha
   link:
@@ -366,7 +389,7 @@ OFDM signal.
   tag2: 
 
 - title: "Relay and power allocation schemes for OFDM-based cognitive radio systems"
-  image: 
+  image: cogradio.png
   description: 
   authors:
     Dinesh Bharadia, Gaurav Bansal, Praveen Kaligineedi, Vijay K Bhargava
