@@ -43,7 +43,7 @@ permalink: /research/
 ```
 * Dir `Research`: One page each for each research topics (6 of them)
 * `team.md`: ALumni and interns
-* `home`: Logo and first page items
+* `home`: Logo and first page items. Slider photos.
 
 Directory `_includes`: to updata html files for header ("WCSNG @ UC San Diego"), footer, analytics, and news
 
