@@ -11,9 +11,9 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(See Opportunities)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [master and bachelor students](#master-and-bachelor-students), and [alumni](#alumni)
 
-## Team
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -221,13 +221,13 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 </div>
 {% endif %}
 
-* Shrivatsan Rajagopalan (MS 2019) (Localization)
-* Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm)
+* Shrivatsan Rajagopalan (MS 2019) (Localization) (Now at Qualcomm, SD)
+* Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm, SJ)
 * Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel)
 * Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
 * Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Honda Research Institute, SJ)
 * Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm, SD)
-* Kavya Potluri (MS 2019) () (Now at Qualcomm)
+* Kavya Potluri (MS 2019) (Now at Qualcomm)
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at )
 
 ### UCSD Summer Research Internship Program (SIP)
@@ -251,7 +251,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 
 #### Summer 2018
-* Raghav Sonavane [IITD] (project)
+* Raghav Sonavane [IITD] (In-body communication)
 * Raghav Vaidyanathan Subbaraman [IITM] (spectrum sensing) (Highlight: NSDI 2018) (Now PhD at UCSD)
 * Sidharth Kumar [IITD] (Wireless power transfer) (Highlight: Mobisys 2019) (Now PhD at UT Austin)
 * Zihan Zhang [BUPT China] (Spectrum sensing) (Now MS at Michigan University)
