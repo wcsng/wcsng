@@ -3,7 +3,7 @@ title: "WCSNG Lab - Research"
 layout: gridlay
 excerpt: "WCSNG Lab -- Localization"
 sitemap: false
-permalink: /localization/
+permalink: /localization-paper/
 ---
 
 # Localization
