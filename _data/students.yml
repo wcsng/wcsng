@@ -67,9 +67,37 @@
   number_educ: 0
   education1:
 
-- name: Shrinidhi  
+- name: Shrinidhi Venkatakrishnan
   photo: rock.jpg
   info: Master student since 2018
+  project: Wireless VR
+  number_educ: 0
+  education1:
+
+- name: Scott Zhao  
+  photo: rock.jpg
+  info: Undergrad student since 2019
+  project: UWB Localization
+  number_educ: 0
+  education1:
+
+- name: Chenfeng Wu
+  photo: rock.jpg
+  info: Undergrad student since 2018
+  project: Robotics and Indoor Navigation
+  number_educ: 0
+  education1:
+
+- name: Yunchieh (Zena) Chang
+  photo: rock.jpg
+  info: Master student since 2018
+  project: Deep Learning and Indoor Localization
+  number_educ: 0
+  education1:
+
+- name: Tian Qiu
+  photo: rock.jpg
+  info: Master student since 2019
   project: Wireless VR
   number_educ: 0
   education1:

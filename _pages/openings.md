@@ -3,7 +3,7 @@ title: "WCSNG Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /vacancies.html
 ---
 
 # Open positions

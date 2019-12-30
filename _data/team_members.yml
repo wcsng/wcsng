@@ -105,4 +105,14 @@
   education3:
   education4:
 
+- name: Richard Bell
+  photo: richard.png
+  info: PhD Student, started 2016
+  email: rcbell@eng.ucsd.edu
+  number_educ: 1
+  education1:  Richard's research interests include wireless localization.
+  education2:
+  education3:
+  education4:
+
 

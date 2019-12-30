@@ -223,12 +223,13 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 
 * Shrivatsan Rajagopalan (MS 2019) (Localization) (Now at Qualcomm, SD)
 * Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm, SJ)
-* Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel)
+* Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel, SD)
 * Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
 * Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Honda Research Institute, SJ)
 * Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm, SD)
-* Kavya Potluri (MS 2019) (Now at Qualcomm)
-* Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at )
+* Kavya Potluri (MS 2019) (Now at Qualcomm, SD)
+* Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at Cruise Automation, SJ)
+* Rohit Kulkarni (MS 2018) (Spectrum Sensing) (Now at Qualcomm, SD)
 
 ### UCSD Summer Research Internship Program (SIP)
 #### Summer 2019

@@ -3,7 +3,7 @@ title: "WCSNG Lab - Research"
 layout: textlay
 excerpt: "WCSNG Lab -- Research"
 sitemap: false
-permalink: vr
+permalink: vr.html
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/back.png" class="img-responsive" width="4%" /> </a>
 
