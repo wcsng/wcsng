@@ -19,7 +19,11 @@ Clone the repository. Install Jekyll. Run webpage on local server.
 bundle exec jekyll serve
 ```
 
-This command builds the webpage in the `_site` folder with all the html, CSS, and files. Just add, commit, and push the content to Github OR copy it to your webserver.
+This command builds the webpage in the `_site` folder with all the html, CSS, and files for your localserver. Use:
+```
+bundle exec jekyll build
+```
+to build the webpage in the `_site` that can be used for your webserver. Just add, commit, and push the content to Github OR copy it to your webserver.
 
 
 How to edit the contents:
