@@ -1,6 +1,6 @@
 ---
 title: "Localization"
-layout: textlay
+layout: gridlay
 excerpt: "Localization"
 sitemap: false
 permalink: localization.html
