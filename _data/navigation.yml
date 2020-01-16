@@ -1,0 +1,29 @@
+- title: Home
+  url: /index.html
+- title: Team
+  url: /team/index.html
+- title: Research
+  url: /research/index.html
+  sublinks:
+    - title: Localization
+      url: /localization.html
+    - title: Spectrum Sensing
+      url: /sensing.html
+    - title: Full Duplex
+      url: /fullduplex.html
+    - title: Back Scatter
+      url: /backscatter.html
+    - title: Radar Sensing
+      url: /vehicular.html
+    - title: Virtual Reality
+      url: /vr.html
+    - title: Wireless Communication
+      url: /communication.html
+    - title: Miscellaneous Reseach
+      url: /misc-research.html
+- title: Publications
+  url: /publications/index.html
+- title: Tutorials
+  url: /tutorials/index.html
+- title: Group Pics
+  url: /pictures/index.html

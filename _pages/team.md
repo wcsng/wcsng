@@ -252,7 +252,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 
 
 #### Summer 2018
-* Raghav Sonavane [IITD] (In-body communication)
+* Raghav Sonavane [IITKgp] (In-body communication) (Now at Sprinklr, India)
 * Raghav Vaidyanathan Subbaraman [IITM] (spectrum sensing) (Highlight: NSDI 2018) (Now PhD at UCSD)
 * Sidharth Kumar [IITD] (Wireless power transfer) (Highlight: Mobisys 2019) (Now PhD at UT Austin)
 * Zihan Zhang [BUPT China] (Spectrum sensing) (Now MS at Michigan University)

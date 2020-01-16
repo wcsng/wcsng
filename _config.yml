@@ -9,9 +9,12 @@
 title: The WCSNG Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wireless Communication Sensing and Networking Group (WCSNG). 
+  We believe that progress is a result of unconventional thinking and dedicated work to improve 
+  the current state of technology. Our research areas span modern wireless communication systems, 
+  sensor networks, and machine learning. 
+  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
+  We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi.
 baseurl: ""
 url: ""
 
