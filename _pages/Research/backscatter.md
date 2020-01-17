@@ -1,15 +1,16 @@
 ---
 title: "WCSNG Lab - Research"
-layout: textlay
+layout: research
 excerpt: "WCSNG Lab -- Research"
 sitemap: false
 permalink: backscatter.html
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/back.png" class="img-responsive" width="4%" /> </a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/back.png" class="img-responsive" width="4%" /> </a> -->
 
 # Backscatter
-####  This page contains papers related to `Backscatter`. Go back to other <a href="{{ site.url }}{{ site.baseurl }}/research"> <b>Research</b></a> categories or see full list of <a href="{{ site.url }}{{ site.baseurl }}/publications"> <b>Publications</b></a>.
-
+<!-- ####  This page contains papers related to `Backscatter`. 
+#### Go back to other <a href="{{ site.url }}{{ site.baseurl }}/research"> <b>Research</b></a> categories or see full list of <a href="{{ site.url }}{{ site.baseurl }}/publications"> <b>Publications</b></a>.
+ -->
 
 <p> &nbsp; </p>
 {% assign number_printed = 0 %}
