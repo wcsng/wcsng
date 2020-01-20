@@ -14,9 +14,9 @@
   photo: roshan.jpg
   info: PhD Student, started 2017
   email: roshana@eng.ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1: Roshan’s current research interests are in using wireless and computer vision techniques bolstered with machine learning algorithms. He focuses on applications such as detection, localization, and tracking of objects with a vision of autonomous vehicles.
-  education2: 
+  education2: "Highlights: Conext'19, Mobicom'20, NSDI'20"
   education3: 
   education4: 
 
@@ -24,24 +24,25 @@
   photo: yeswanth.jpg
   info: PhD student, started 2017
   email: yguddeti@eng.ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1: Yeswanth is developing systems which explore new paradigms to interact with the RF spectrum for applications such as spectrum sensing and RF fingerprinting. Future projects include indoor AP synchronization for localization and distributed MIMO.
-  education2: 
+  education2: "Highlights: NSDI'19, Mobisys'19"
 
 - name: Manideep Dunna
   photo: manideep.jpg
   info: PhD Student, started 2018
   email: mdunna@ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1: Manideep's research focuses on using backscatter techniques for low power wireless relays and in-body communications. 
+  education2: "Highlights: Mobicom'20"
 
 - name: <a href='https://ishjain.github.io/'>Ish Kumar Jain</a>
   photo: ish.jpg
   info: PhD Student, started 2018
   email: ikjain@ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1: Ish is working on millimeter wave communications to provide high reliability and low latency for applications such as virtual reality and vehicular communications.
-  education2:
+  education2: "Highlights: NSDI'20"
   education3:
   education4:
 
@@ -59,9 +60,9 @@
   photo: aditya.jpg
   info: PhD Student, started 2019
   email: aarun@eng.ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1:  Aditya's research currently focuses on realizing accurate indoor localization by introducing a new WiFi-based sensor modality using graph-based optimization techniques.
-  education2:
+  education2: "Highlights: NSDI'20"
   education3:
   education4:
 
@@ -69,9 +70,9 @@
   photo: raghav.png
   info: PhD Student, started 2019
   email: rsubbaraman@eng.ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1:  Raghav's research currently focuses on spectrum sensing and exploring new wireless sensing techniques.
-  education2:
+  education2: "Highlights: NSDI'19"
   education3:
   education4:
 
@@ -107,10 +108,10 @@
 
 - name: Richard Bell
   photo: richard.png
-  info: PhD Student, started 2016
+  info: PhD Student, started 2019
   email: rcbell@eng.ucsd.edu
   number_educ: 1
-  education1:  Richard's research interests include wireless localization.
+  education1:  Richard's research interests are in localization of RF emitters and applications of machine learning in wireless communications. Richard would like to achieve the true vision of a cognitive radio.
   education2:
   education3:
   education4:

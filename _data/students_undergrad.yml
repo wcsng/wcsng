@@ -1,0 +1,58 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+
+- name: Scott Zhao  
+  photo: rock.jpg
+  info: Undergrad student since 2017 (joined WCSNG in 2018)
+  project: UWB Localization
+  number_educ: 0
+  education1:
+
+- name: Chenfeng Wu
+  photo: rock.jpg
+  info: Undergrad student since 2017 (joined WCSNG in 2019)
+  project: Robotics and Indoor Navigation
+  number_educ: 0
+  education1:
+
+- name: Keshav Rungta
+  photo: rock.jpg
+  info: Undergrad student since 2016 (joined WCSNG in 2019)
+  project: Robotics and Radars
+  number_educ: 0
+  education1:
+
+- name: Karl Wang
+  photo: rock.jpg
+  info: Undergrad student since 2016 (joined WCSNG in 2019)
+  project: Wireless power transfer
+  number_educ: 0
+  education1:
+
+- name: Siyuan Zhu
+  photo: rock.jpg
+  info: Undergrad student since 2016 (joined WCSNG in 2019)
+  project: Radar point clouds
+  number_educ: 0
+  education1:
+
+
+- name: Jason Ma
+  photo: rock.jpg
+  info: Undergrad student since xx (joined WCSNG in 2019)
+  project: Drone Communications
+  number_educ: 0
+  education1:
+
+
+
+

@@ -1,9 +1,24 @@
 
+- date: Dec 2019
+  headline: ISSCC 2020 accepted "<a href='http://efficiency.ucsd.edu/2019/12/isscc-2020-paper-tutorial-two-forums-and-an-industry-showcase/'>A 28μW IoT Tag That Can Communicate with Commodity WiFi</a>"
+
+- date: Dec 2019
+  headline:  NSDI 2020 accepted LocAP- Localization of existing Wifi Infrastructure. Congrats Roshan and team!
+
+- date: Nov 2019
+  headline: ScatterMIMO accepted at Mobicom 2020. Congrats Manideep and team!
+
+- date: Nov 2019
+  headline: <a href='http://wcsng.ucsd.edu/dloc/'>DLoc (Deep Learning based WiFi localization)</a> accepted at Mobicom 2020. Congrats Roshan and team!
+
 - date: Sep 2019
   headline: Aditya, Agrim, Raghav, Nikhil, and Byungjun joined WCSNG. Welcome!
 
 - date: 20 June 2019
-  headline: "Yeswanth and Siddharth presented their work on <a href='https://dl.acm.org/citation.cfm?id=3326088'>SparSDR</a> and <a href='https://dl.acm.org/citation.cfm?id=3307334.3326077'>Capttery</a> in <a href='https://www.sigmobile.org/mobisys/2019/'>Mobysis 2019</a>, Seoul, South Korea. <img src='images/newspic/yesw.jpg' class='img-responsive' width=80% /> "
+  headline: "Yeswanth presented <a href='https://dl.acm.org/citation.cfm?id=3326088'>SparSDR</a> at <a href='https://www.sigmobile.org/mobisys/2019/'>Mobysis 2019</a>, Seoul, South Korea. <img src='images/newspic/yesw.jpg' class='img-responsive' width=80% /> "
+
+- date: 20 June 2019
+  headline: "Siddharth presented <a href='https://dl.acm.org/citation.cfm?id=3307334.3326077'>Capttery</a> at <a href='https://www.sigmobile.org/mobisys/2019/'>Mobysis 2019</a>, Seoul, South Korea."
 
 - date: 19 June 2019
   headline: "Yue, Aman, and Yongxi presented their work on <a href='https://arxiv.org/abs/1812.05642'>SIGNet</a> in <a href='http://cvpr2019.thecvf.com/'>CVPR 2019</a>, Long Beach, CA, USA." 
