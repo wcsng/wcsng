@@ -12,7 +12,7 @@
 
 - name: Scott Zhao  
   photo: rock.jpg
-  info: Undergrad student since 2017 (joined WCSNG in 2018)
+  info: Undergrad student since 2016 (joined WCSNG in 2019)
   project: UWB Localization
   number_educ: 0
   education1:
@@ -21,8 +21,8 @@
   photo: rock.jpg
   info: Undergrad student since 2017 (joined WCSNG in 2019)
   project: Robotics and Indoor Navigation
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: "Highlight: Co-author Mobicom'20, NSDI'20"
 
 - name: Keshav Rungta
   photo: rock.jpg
@@ -48,7 +48,7 @@
 
 - name: Jason Ma
   photo: rock.jpg
-  info: Undergrad student since xx (joined WCSNG in 2019)
+  info: Undergrad student since 2017 (joined WCSNG in 2019)
   project: Drone Communications
   number_educ: 0
   education1:
