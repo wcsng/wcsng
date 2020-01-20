@@ -258,7 +258,27 @@ Jump to [masters students](#masters-students), [undergrad students](#undergradua
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
+{% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
 
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
   </ul>
 </div>
 
@@ -275,12 +295,13 @@ Jump to [masters students](#masters-students), [undergrad students](#undergradua
 </div>
 {% endif %}
 
-* Shrivatsan Rajagopalan (MS 2019) (Localization) (Now at Qualcomm, SD)
-* Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm, SJ)
-* Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel, SD)
+### Alumni MS students
+* Shrivatsan Rajagopalan (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SD)
+* Aravind Seetharaman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SJ)
+* Shreya Ganesaraman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Intel, SD)
 * Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
-* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Honda Research Institute, SJ)
-* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm, SD)
+* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR'19) (Now at Honda Research Institute, SJ)
+* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR'19) (Now at Qualcomm, SD)
 * Kavya Potluri (MS 2019) (Now at Qualcomm, SD)
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at Cruise Automation, SJ)
 * Rohit Kulkarni (MS 2018) (Spectrum Sensing) (Now at Qualcomm, SD)
