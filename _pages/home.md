@@ -83,7 +83,7 @@ We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We a
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-9 clearfix">
  <div class="well">
   <pubtit> <font size="+2">{{ publi.title }}</font></pubtit>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
