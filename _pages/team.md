@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(See Opportunities)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
 
 
-Jump to [master and bachelor students](#master-and-bachelor-students), and [alumni](#alumni)
+Jump to [masters students](#masters-students), [undergrad students](#undergraduate-students) and [alumni](#alumni) members.
 
 ## PhD Students
 {% assign number_printed = 0 %}
@@ -132,11 +132,11 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 {% endif %}
 
 
-## Master and Bachelor Students
+## Masters Students
 
 
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.students_masters %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -187,11 +187,11 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 </div>
 {% endif %}
 
+## Undergraduate Students
 
-## Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.students_undergrad %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -200,10 +200,31 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}</i><br>Project: {{ member.project }}
   <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
 
   </ul>
 </div>
@@ -221,12 +242,66 @@ Jump to [master and bachelor students](#master-and-bachelor-students), and [alum
 </div>
 {% endif %}
 
-* Shrivatsan Rajagopalan (MS 2019) (Localization) (Now at Qualcomm, SD)
-* Aravind Seetharaman (MS 2019) (Localization) (Now at Qualcomm, SJ)
-* Shreya Ganesaraman (MS 2019) (Localization) (Now at Intel, SD)
+## Alumni
+
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+{% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+### Alumni MS students
+* Shrivatsan Rajagopalan (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SD)
+* Aravind Seetharaman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SJ)
+* Shreya Ganesaraman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Intel, SD)
 * Arunkumar Ravichandran (MS 2019) (Wireless VR) (Now at Cisco)
-* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Honda Research Institute, SJ)
-* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR 2019) (Now at Qualcomm, SD)
+* Yue Meng (MS 2019) (SigNet) (Highlight: CVPR'19) (Now at Honda Research Institute, SJ)
+* Samuel Sunarjo (BS-MS 2019) (SigNet) (Highlight: CVPR'19) (Now at Qualcomm, SD)
 * Kavya Potluri (MS 2019) (Now at Qualcomm, SD)
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at Cruise Automation, SJ)
 * Rohit Kulkarni (MS 2018) (Spectrum Sensing) (Now at Qualcomm, SD)
