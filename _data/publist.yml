@@ -12,6 +12,17 @@
   website: 
     url: dloc/
     display: DLoc-Webpage
+  paper: 
+    url: files/dloc.pdf
+    display: paper
+  presentation: 
+    url1: files/dloc-ppt.pptx
+    display1: ppt
+    url2: files/dloc-ppt.pdf
+    display2: pdf
+    url3: 404.html
+    display3: talk
+
 
 - title: "LocAP: Accurate Localization of Existing WiFi Infrastructure"
   image: loc_ap.png
@@ -24,6 +35,16 @@
   tag1: localization
   tag2: 
   news2:
+  paper: 
+    url: files/LocAP_paper.pdf
+    display: paper
+  presentation: 
+    url1: files/locap-ppt.pptx
+    display1: ppt
+    url2: files/locap-ppt.pdf
+    display2: pdf
+    url3: 404.html
+    display3: talk
 
 
 - title: "Capttery: Scalable Battery-like Room-level Wireless Power"
@@ -86,6 +107,16 @@
   tag1: backscatter
   tag2: localization
   news2:
+  paper: 
+    url: files/bloc_paper.pdf
+    display: paper
+  presentation: 
+    url1: files/bloc-ppt.pptx
+    display1: ppt
+    url2: files/bloc-ppt.pdf
+    display2: pdf
+    url3: https://dl.acm.org/doi/10.1145/3281411.3281428
+    display3: talk
 
 - title: "FreeRider: Backscatter Communication Using Commodity Radios"
   image: freerider.png

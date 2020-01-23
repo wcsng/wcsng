@@ -34,6 +34,7 @@ permalink: localization.html
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p>[<a href="{{ publi.paper.url }}">{{ publi.paper.display }}</a>-<a href="{{ site.url }}{{ site.baseurl }}/{{ publi.presentation.url1 }}">{{ publi.presentation.display1 }}</a>-<a href="{{ site.url }}{{ site.baseurl }}/{{ publi.presentation.url2 }}">{{ publi.presentation.display2 }}</a>]</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
