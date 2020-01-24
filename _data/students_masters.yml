@@ -40,8 +40,8 @@
   photo: rock.jpg
   info: Master student since 2018
   project: Machine Learning
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: "Highlight: Coauthor Mobicom'20"
 
 - name: Aman Goyal
   photo: rock.jpg

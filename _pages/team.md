@@ -316,7 +316,7 @@ Jump to [masters students](#masters-students), [undergrad students](#undergradua
 * Keshav Mittal (BS) (Localization)
 * Karl Wang (BS) (Backscatter)
 * Siyuan Zhu (BS) (Radar sensing)
-* Jay (MS) (Machine Learning)
+
 
 
 ### International Summer Interns
