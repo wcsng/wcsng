@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   sensor networks, and machine learning. 
   Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
   We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi.
-baseurl: ""
+baseurl: "/wcsng"
 url: ""
 
 include:
