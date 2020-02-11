@@ -4,7 +4,6 @@ layout: redirected
 excerpt: "WCSNG Lab -- Localization"
 sitemap: false
 permalink: /dloc/
-redirect_to:  https://wcsng.ucsd.edu/dloc
 ---
 
 # Indoor Navigation using Deep Learning
