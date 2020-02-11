@@ -4,7 +4,6 @@ layout: research
 excerpt: "WCSNG Lab -- Research"
 sitemap: false
 permalink: backscatter.html
-redirect_to:  https://wcsng.ucsd.edu/backscatter.html
 ---
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/back.png" class="img-responsive" width="4%" /> </a> -->
 
