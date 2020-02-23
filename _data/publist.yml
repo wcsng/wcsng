@@ -35,6 +35,9 @@
   tag1: localization
   tag2: 
   news2:
+  website: 
+    url: locap/
+    display: LocAP-Webpage
   paper: 
     url: files/LocAP_paper.pdf
     display: paper
