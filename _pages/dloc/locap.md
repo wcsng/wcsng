@@ -1,7 +1,7 @@
 ---
 title: "WCSNG Lab - Research"
 layout: gridlay
-excerpt: "WCSNG Lab -- Localization"
+excerpt: "LocAP"
 sitemap: false
 permalink: /locap/
 ---

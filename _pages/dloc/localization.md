@@ -1,15 +1,65 @@
 ---
 title: "WCSNG Lab - Research"
 layout: gridlay
-excerpt: "WCSNG Lab -- Localization"
+excerpt: "DLoc"
 sitemap: false
 permalink: /dloc/
 ---
 
 # Indoor Navigation using Deep Learning
 ---
+### Mobicom 2020
+```
+Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi Deepak Vasisht, Dinesh Bharadia
+```
 
-## DLoc deployment
+
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video]
+
+### Motivation
+Location services, fundamentally, rely on two components: a mapping system and a positioning system. The mapping system provides the physical map of the space, and the positioning system identifies the position within the map. Outdoor location services have
+thrived over the last couple of decades because of well-established
+platforms for both these components (e.g. Google Maps for mapping, and GPS for positioning). In contrast, indoor location services
+haven’t caught up because of the lack of reliable mapping and positioning frameworks, as GPS is known not to work indoors. Wi-Fi
+positioning lacks maps and is also prone to environmental errors.
+
+
+### Overview 
+_**DLoc**_ is a Deep Learning based wireless
+localization algorithm that can overcome traditional limitations of
+RF-based localization approaches (like multipath, occlusions, etc.).
+DLoc uses data from the mapping platform we developed, **_MapFind_**,
+that can construct location-tagged maps of the environment. Together, they allow off-the-shelf Wi-Fi devices like smartphones to
+access a map of the environment and to estimate their position with
+respect to that map. During our evaluation, MapFind has collected
+location estimates of over 150 thousand points under 10 different
+scenarios across two different spaces covering 2000 sq. Ft. DLoc
+outperforms state-of-the-art methods in Wi-Fi-based localization
+by 80% (median & 90th percentile) across the 2000 sq. ft. spanning
+two different spaces.
+<br>
+<br>
+
+<div class="col-sm-9 clearfix">
+  <a href="{{ site.url }}{{ site.baseurl }}/images/respic/dloc.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/dloc.png" width="90%" style="float: center" > </a>
+</div>
+<br>
+
+
+MapFind (left) is an autonomous platform
+that maps an indoor environment while collecting wireless channel
+data. The platform generates a detailed map of the environment
+and collects training data for DLoc. DLoc uses the training data to
+learn a model to accurately localize users in the generated map.
+
+<br>
+<br>
+<br>
+
+
+
+***
+### DLoc deployment
 <div class="row">
 <div class="col-sm-3 clearfix">
 <br>
@@ -23,7 +73,7 @@ permalink: /dloc/
 </div>
 
 ---
-## MapFind to train DLoc
+### MapFind to train DLoc
 
 {% if even_odd == 0 %}
 <div class="row">
