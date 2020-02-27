@@ -64,10 +64,9 @@ Hitchhike's hardware prototype consumes ~30uW of power. At this level of power c
 
 <div class = "row">
 <div class="container">
-<a style="background-color: white; color: orange;" href="{{ site.url }}{{ site.baseurl }}/files/ISSCC_paper.pdf">A 28μW IoT Tag That Can Communicate with Commodity WiFi Transceivers</a><br>
+<a style="background-color: white; color: orange;" href="{{ site.url }}{{ site.baseurl }}/files/ISSCC_paper.pdf">A 28μW IoT Tag That Can Communicate with Commodity WiFi Transceivers</a> <a style="background-color: white; color: blue;" href="{{ site.url }}{{ site.baseurl }}/files/ISSCC-talk.pdf">[Slides]</a><br>
     Po-Han Peter Wang, Chi Zhang, Hongsen Yang, Dinesh Bharadia, Patrick Mercier<br>
     ISSCC 2020<br>
-    <font color="red">Slides</font><br>
     <font color="red">Press cover:</font> 
     <a style="display: inline-block;" href="https://ucsdnews.ucsd.edu/pressrelease/new-chip-brings-ultra-low-power-wi-fi-connectivity-to-iot-devices">UCSD News</a>, 
     <a style="display: inline-block;" href="https://www.techexplorist.com/ultra-low-power-wi-fi-chip-iot-devices-5000-times-less-power/30328/">Tech Explorist</a>
