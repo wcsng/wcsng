@@ -21,6 +21,7 @@ url: ""
 include:
   - .htaccess
   - _pages
+  - images
 
 sass:
   sass_dir: _sass

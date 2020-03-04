@@ -23,7 +23,8 @@ permalink: /research/
  <div class="well">
   <pubtit> <font size="+2">{{ publi.title }}</font></pubtit>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ publi.image }}" class="img-responsive" width="50%" style="float: right; margin-right: 5px; margin-left: 10px " />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ publi.image }}" class="img-responsive" width="50%" />
+  <!-- style="float: right; margin-right: 5px; margin-left: 10px " /> -->
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}.html">{{ publi.link.display }}</a></strong></p>
