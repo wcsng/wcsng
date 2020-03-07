@@ -1,3 +1,19 @@
+- title: "A 28μW IoT Tag That Can Communicate with Commodity WiFi
+ Transceivers via a Single-Side-Band QPSK Backscatter
+ Communication Technique"
+  image: isscc.jpg
+  description: "More portable, fully wireless smart home setups. Lower power wearables. Batteryless smart devices. These could all be made possible thanks to a new ultra-low power Wi-Fi radio developed by electrical engineers at the University of California San Diego. 
+The device, which is housed in a chip smaller than a grain of rice, enables Internet of Things (IoT) devices to communicate with existing Wi-Fi networks using 5,000 times less power than today’s Wi-Fi radios. It consumes just 28 microwatts of power. And it does so while transmitting data at a rate of 2 megabits per second (a connection fast enough to stream music and most YouTube videos) over a range of up to 21 meters."
+  authors: P-H. P. Wang, C. Zhang, H. Yang, D. Bharadia, P. P. Mercier
+  link:
+    url: https://www.newswise.com/articles/ticker/726844
+    display:  \[ISSCC 2020\]
+  highlight: 1
+  tag1: backscatter
+  tag2: communication
+  news2: 
+
+
 - title: "ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces"
   image: scattermimo.png
   description: "In the last decade, the bandwidth expansion and MIMO spatial
