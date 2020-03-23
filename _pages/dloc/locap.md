@@ -14,7 +14,7 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Shrivatsan Rajagopal
 ```
 
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video]
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_slides.pdf" style="background-color: white; color: orange;">[Slides]</a> [Video]
 
 ### Motivation
 Indoor localization has been studied for nearly two decades fueled by wide interest in indoor navigation, achieving the necessary decimeter-level accuracy. However, there are no real-world deployments of WiFi-based user localization algorithms, primarily because these algorithms are infrastructure dependent and therefore assume the location of the Access Points, their antenna geometries, and deployment orientations in the physical map. In the real world, such detailed knowledge of the location attributes of the access point is seldom available, thereby making WiFi localization hard to deploy. 
