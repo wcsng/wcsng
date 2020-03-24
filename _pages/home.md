@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wcsnglogo.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black_full_long.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" />
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
 
@@ -42,10 +42,10 @@ We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We a
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/beargroup.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/low-power-WiFi-chip-4.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yesw.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/beargroup.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dineshmani.jpg" alt="Slide 3" />

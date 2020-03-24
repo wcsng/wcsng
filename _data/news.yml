@@ -1,12 +1,20 @@
+- date: Mar 2020
+  headline:  Roshan qualified PhD candidate exam. Congrats Roshan!
+
+
+- date: Mar 2020
+  headline:  Roshan presented "<a href='http://wcsng.ucsd.edu/locap/'>LocAP</a>" at NSDI, Santa Clara. <img src='images/newspic/Roshan-locap.jpg' class='img-responsive' width=80% />
 
 - date: Dec 2019
   headline: ISSCC 2020 accepted "<a href='http://efficiency.ucsd.edu/2019/12/isscc-2020-paper-tutorial-two-forums-and-an-industry-showcase/'>A 28μW IoT Tag That Can Communicate with Commodity WiFi</a>"
 
 - date: Dec 2019
-  headline:  NSDI 2020 accepted LocAP- Localization of existing Wifi Infrastructure. Congrats Roshan and team!
+  headline:  NSDI 2020 accepted "<a href='http://wcsng.ucsd.edu/locap/'>LocAP- Localization of existing Wifi Infrastructure.</a>" Congrats Roshan and team! 
+
+
 
 - date: Nov 2019
-  headline: ScatterMIMO accepted at Mobicom 2020. Congrats Manideep and team!
+  headline: "<a href='http://wcsng.ucsd.edu/scattermimo/'>ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a> accepted at Mobicom 2020. Congrats Manideep and team!"
 
 - date: Nov 2019
   headline: <a href='http://wcsng.ucsd.edu/dloc/'>DLoc (Deep Learning based WiFi localization)</a> accepted at Mobicom 2020. Congrats Roshan and team!

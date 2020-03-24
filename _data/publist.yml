@@ -1,3 +1,60 @@
+- title: "A 28μW IoT Tag That Can Communicate with Commodity WiFi
+ Transceivers via a Single-Side-Band QPSK Backscatter
+ Communication Technique"
+  image: isscc.jpg
+  description: "More portable, fully wireless smart home setups. Lower power wearables. Batteryless smart devices. These could all be made possible thanks to a new ultra-low power Wi-Fi radio developed by electrical engineers at the University of California San Diego. 
+The device, which is housed in a chip smaller than a grain of rice, enables Internet of Things (IoT) devices to communicate with existing Wi-Fi networks using 5,000 times less power than today’s Wi-Fi radios. It consumes just 28 microwatts of power. And it does so while transmitting data at a rate of 2 megabits per second (a connection fast enough to stream music and most YouTube videos) over a range of up to 21 meters."
+  authors: P-H. P. Wang, C. Zhang, H. Yang, D. Bharadia, P. P. Mercier
+  link:
+    url: https://www.newswise.com/articles/ticker/726844
+    display:  \[ISSCC 2020\]
+  highlight: 1
+  tag1: backscatter
+  tag2: communication
+  news2: 
+
+
+- title: "ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces"
+  image: scattermimo.png
+  description: "In the last decade, the bandwidth expansion and MIMO spatial
+multiplexing have promised to increase data throughput by orders
+of magnitude. However, we are yet to enjoy such improvement
+in real-world environments, as they lack rich scattering and preclude
+effective MIMO spatial multiplexing. In this paper, we present
+ScatterMIMO, which uses smart surface to increase the scattering
+in the environment, to provide MIMO spatial multiplexing gain.
+Specifically, smart surface pairs up with a wireless transmitter device
+say an active AP and re-radiates the same amount of power
+as any active access point (AP), thereby creating virtual passive
+APs. ScatterMIMO avoids the synchronization, interference, and
+power requirements of conventional distributed MIMO systems
+by leveraging virtual passive APs, allowing its smart surface to
+provide spatial multiplexing gain, which can be deployed at a very
+low cost. We show that with optimal placement, these virtual APs
+can provide signals to their clients with power comparable to real
+active APs, and can increase the coverage of an AP. Furthermore,
+we design algorithms to optimize ScatterMIMO’s smart surface for
+each client with minimal measurement overhead and to overcome
+random per-packet phase offsets during the measurement. Our
+evaluations show that with commercial off-the-shelf MIMO WiFi
+(11ac) AP and unmodified clients, ScatterMIMO provides a median
+throughput improvement of 2x over the active AP alone."
+  authors: Manideep Dunna, Chi Zhang, Daniel Sievenpiper, Dinesh Bharadia
+  link:
+    url: https://sigmobile.org/mobicom/2020/accepted.php
+    display:  \[Accepted Mobicom 2020\]
+  highlight: 1
+  tag1: backscatter
+  tag2: communication
+  news2: 
+  website: 
+    url: scattermimo/
+    display: ScatterMIMO-Webpage
+  paper: 
+    url: files/scattermimo.pdf
+    display: paper
+
+
 - title: "Deep Learning based Wireless Localization for Indoor Navigation"
   image: dloc.png
   description: Location services, fundamentally, rely on two components- a mapping system and a positioning system. The mapping system provides the physical map of the space, and the positioning system identifies the position within the map. Outdoor location services have thrived over the last couple of decades because of well-establishedplatforms for both these components (e.g. Google Maps for mapping, and GPS for positioning). In contrast, indoor location services haven’t caught up because of the lack of reliable mapping and positioning frameworks, as GPS is known not to work indoors. WiFi positioning lacks maps and is also prone to environmental errors. In this paper, we present DLoc, a Deep Learning based wireless localization algorithm that can overcome traditional limitations of RF-based localization approaches (like multipath, occlusions, etc.). DLoc uses data from the mapping platform we developed, MapFind, that can construct location-tagged maps of the environment. Together, they allow off-the-shelf WiFi devices like smartphones toaccess a map of the environment and to estimate their position withrespect to that map. During our evaluation, MapFind has collected location estimates of over 120 thousand points under 10 different scenarios across two different spaces covering 2000 sq. Ft. DLoc outperforms state-of-the-art methods in WiFi-based localizationby 80% (median and 90th percentile) across the 2000 sq. ft. spanningtwo different spaces.
