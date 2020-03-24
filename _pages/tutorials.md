@@ -6,7 +6,7 @@ sitemap: false
 permalink: /tutorials/
 ---
 
-# Tutorials
+# Tutorials/ Resources
 
 
 {% assign number_printed = 0 %}
@@ -21,7 +21,7 @@ permalink: /tutorials/
 
 <div class="col-sm-8 clearfix">
  <div class="well">
-  <pubtit> <font size="+2"><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}.html">{{ publi.title }}</a></font></pubtit>
+  <pubtit> <font size="+2"><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.title }}</a></font></pubtit>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tutorialspic/{{ publi.image }}" class="img-responsive" width="30%" style="float: right; margin-right: 5px; margin-left: 10px " />
   <p>{{ publi.description }}</p>

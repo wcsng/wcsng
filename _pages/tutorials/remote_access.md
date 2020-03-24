@@ -3,7 +3,7 @@ title: "WCSNG Lab - Tutorials"
 layout: gridlay
 excerpt: "Remote access"
 sitemap: false
-permalink: /remote_access.html/
+permalink: /remote_access/
 ---
 
 # Notes on Remote Access
