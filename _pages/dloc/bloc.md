@@ -47,7 +47,7 @@ LocAP is deployed on an autonomous bot which hosts a Lidar and a WiFi client. Th
 ***
 
 ### Watch the Video
-<iframe width="560" height="315" src="https://youtu.be/tC70Hs8cjwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/tC70Hs8cjwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
