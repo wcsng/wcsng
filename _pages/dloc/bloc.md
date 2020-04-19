@@ -8,7 +8,7 @@ permalink: /bloc/
 
 # BLoc: CSI-based accurate localization for BLE tags
 ---
-### CoNEXT'20
+### CoNEXT'18
 ```
 Authors: Roshan Ayyalasomayajula, Deepak Vasisht, and Dinesh Bharadia
 ```
@@ -45,7 +45,7 @@ Finally, as the transmitter and receiver have heir unique clocks based intial ph
 <br>
 <br>
 <br>
-<br>
+<!-- <br> -->
 
 ***
 These contributions enable relative wideband CSI measurements for BLE devices thus enabling sub-meter accurate, robust indoor localization for BLE tags. You can find further details in the following video and implementation details in our paper.
