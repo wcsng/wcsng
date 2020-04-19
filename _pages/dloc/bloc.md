@@ -6,7 +6,7 @@ sitemap: false
 permalink: /bloc/
 ---
 
-# LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure
+# BLoc: CSI-based accurate localization for BLE tags
 ---
 ### CoNEXT'20
 ```
