@@ -8,7 +8,7 @@ permalink: /bloc/
 
 # BLoc: CSI-based accurate localization for BLE tags
 ---
-### CoNEXT'20
+### CoNEXT'18
 ```
 Authors: Roshan Ayyalasomayajula, Deepak Vasisht, and Dinesh Bharadia
 ```
