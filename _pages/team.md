@@ -15,18 +15,17 @@ permalink: /team/
 Jump to [master's students](#masters-students), [undergrad students](#undergraduate-students) and [alumni](#alumni) members.
 
 <div class="row">
-<div class="col-sm-12 clearfix">
-<!-- <div class="col-sm-6 clearfix"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="15%" style="float: left" />
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="30%" style="float: left" />
+  <div class="col-sm-7 clearfix">
   <h3>Dinesh Bharadia</h3>
   Principal Investigator, WCSNG<br><br>
   Assistant Professor<br>
   Department of Electrical and Computer Engineering <br>
   University of California, San Diego <br>
-  Email: <b>dineshb [at] eng.ucsd.edu</b> | Office: 4308, Atkinson Hall | <a href="https://web.eng.ucsd.edu/~dineshb/"> Personal Website </a> | <a href="https://scholar.google.com/citations?user=5SjaXJsAAAAJ&hl=en"> Google Scholar </a> 
-  <ul style="overflow: hidden">
-
-  </ul>
+  Email: <b>dineshb [at] eng.ucsd.edu</b> | Office: 4308, Atkinson Hall <br> 
+  <a href="https://web.eng.ucsd.edu/~dineshb/"> Personal Website </a> | <a href="https://scholar.google.com/citations?user=5SjaXJsAAAAJ&hl=en"> Google Scholar </a> 
+</div>  
 </div>
 </div>
 
