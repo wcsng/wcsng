@@ -1,13 +1,4 @@
-# Allan Lab Website
-
-<!--This is the website of our academic research group at Leiden University.
-
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. -->
-
-
-Copyright Allan Lab. Code released under the MIT License.
+# WCSNG UCSD Group Webpage
 
 Note: one time change in `_config.yml`, when you want to host the webpage at `wcsng.github.io/wcsng`.
 ```
@@ -52,3 +43,39 @@ permalink: /research/
 Directory `_includes`: to updata html files for header ("WCSNG @ UC San Diego"), footer, analytics, and news
 
 Directory `_layouts`: `homelay.html` has "Welcome to WCSNG" message. Other files not useful.
+
+## Installing Jekyll on Ubuntu
+
+```
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+gem install jekyll bundler
+```
+
+Now check the `Gemfile.lock` file for the correct version number of the bundler and install it. For example, if file says it was `BUNDLED WITH 2.0.2`, then run:
+
+```
+gem i bundler -v 2.0.2
+``` 
+
+Install all required gems:
+
+```
+bundle install
+```
+
+
+## Copyright and Source
+
+Forked from **Allan Lab Website** `https://github.com/mpa139/allanlab`. Code released under the MIT License.
+
+<!--This is the website of our academic research group at Leiden University.
+
+This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+
+Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. -->
