@@ -16,16 +16,19 @@ Jump to [master's students](#masters-students), [undergrad students](#undergradu
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="30%" style="float: left" />
-  <div class="col-sm-7 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="32%" style="float: left" />
+  <!-- <div class="col-sm-7 clearfix"> -->
   <h3>Dinesh Bharadia</h3>
-  Principal Investigator, WCSNG<br><br>
+  Principal Investigator, WCSNG<br>
   Assistant Professor<br>
   Department of Electrical and Computer Engineering <br>
-  University of California, San Diego <br>
-  Email: <b>dineshb [at] eng.ucsd.edu</b> | Office: 4308, Atkinson Hall <br> 
-  <a href="https://web.eng.ucsd.edu/~dineshb/"> Personal Website </a> | <a href="https://scholar.google.com/citations?user=5SjaXJsAAAAJ&hl=en"> Google Scholar </a> 
-</div>  
+  University of California, San Diego
+<ul style="margin: 0; padding: 0; list-style-type:none; overflow: hidden">
+<li>Email: <b>dineshb [at] eng.ucsd.edu</b></li>
+<li>Office: 4308, Atkinson Hall</li>
+<li><a href="https://web.eng.ucsd.edu/~dineshb/"> Personal Website </a> | <a href="https://scholar.google.com/citations?user=5SjaXJsAAAAJ&hl=en"> Google Scholar </a></li>
+</ul>
+
 </div>
 </div>
 
