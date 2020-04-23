@@ -14,18 +14,8 @@ permalink: /team/
 
 Jump to [master's students](#masters-students), [undergrad students](#undergraduate-students) and [alumni](#alumni) members.
 
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
-
-### [Dinesh Bharadia](https://web.eng.ucsd.edu/~dineshb/)
-Assistant Professor\\
-Department of Electrical Engineering\\
-University of California, San Diego
-
-
-Office: Atkinson Hall, 4308\\
-Email: dineshb [at] eng.ucsd.edu -->
-<!-- ## Principal Investigator -->
 <div class="row">
+<div class="col-sm-12 clearfix">
 <!-- <div class="col-sm-6 clearfix"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="15%" style="float: left" />
   <h3>Dinesh Bharadia</h3>
@@ -37,7 +27,7 @@ Email: dineshb [at] eng.ucsd.edu -->
   <ul style="overflow: hidden">
 
   </ul>
-<!-- </div> -->
+</div>
 </div>
 
 
