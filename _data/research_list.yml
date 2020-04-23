@@ -68,12 +68,4 @@
   highlight: 1
   news2:
 
-- title: "Miscellaneous Research"
-  image: misc.jpg
-  description: Research on ancient caves or Mars landing vehicle! Explore the diversity of out-of-the-box research ideas.
-  authors: 
-  link:
-    url: /misc-research
-    display:  Details and Publications
-  highlight: 1
-  news2:
+

@@ -19,11 +19,11 @@
       url: /vr.html
     - title: Wireless Communication
       url: /communication.html
-    - title: Miscellaneous Reseach
-      url: /misc-research.html
 - title: Publications
   url: /publications/index.html
 - title: Tutorials
   url: /tutorials/index.html
 - title: Group Pics
   url: /pictures/index.html
+- title: BluBLE
+  url: /bluble/
