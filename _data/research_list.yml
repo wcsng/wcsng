@@ -9,18 +9,18 @@
   news2:
 
 - title: "Spectrum Sensing"
-  image: sensing.jpg
-  description: Fast sensing of broad wireless spectrum using commodity SDRs. How wide? How fast? Think about what would you do with tons of wideband spectrum data.
+  image: sweepsense.png
+  description: Developing spectrum sensing entities that scale to requirements of next-generation wireless networks.
   authors: 
   link:
-    url: /sensing
+    url: /spectrum_sensing
     display:  Details and Publications
   highlight: 1
   news2:
 
 - title: "Full Duplex"
   image: fullDuplex.jpg
-  description: Full Duplex is brought from theory to practice. Learn how to achieve self-interference cancellation and its numerous applications.
+  description: Full Duplex from theory to practice. Managing self interference cancellation, and various applications.
   authors: 
   link:
     url: /fullduplex
@@ -30,7 +30,7 @@
 
 - title: "Backscatter"
   image: backscatter.jpg
-  description: Millions of IoT devices work on backscatter principle. Look for other exciting applications, e.g., Full Duplex relays.
+  description: Harnessing wireless backscatter for low-power communication, sensing and wireless channel conditioning.
   authors: 
   link:
     url: /backscatter
@@ -40,7 +40,7 @@
 
 - title: "Vehicular Sensing (Radar)"
   image: v2x.jpg
-  description: Self-Driving Cars requires robust sensing (the environment) and communication (V2X). Find out the importance of Radar for sensing.
+  description: Sensing for autonomous vehicles, toward multi-sensor fusion and robust radar imaging. 
   authors: 
   link:
     url: /vehicular

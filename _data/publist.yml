@@ -127,9 +127,12 @@ throughput improvement of 2x over the active AP alone."
     url: https://dl.acm.org/citation.cfm?id=3326088
     display:  \[Mobisys 2019\]
   highlight: 1
-  tag1: sensing
+  tag1: spectrum_sensing
   tag2: 
   news2:
+  website:
+    url: https://github.com/ucsdsysnet/sparsdr
+    display: SparSDR Repository
 
 - title: "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
   image: sweepsense.png
@@ -137,12 +140,15 @@ throughput improvement of 2x over the active AP alone."
   authors: Yeswanth Guddeti,  Raghav Subbaraman, Moein Khazraee, Aaron Schulman, and Dinesh Bharadia
   link:
     url: https://www.usenix.org/conference/nsdi19/presentation/guddeti
-    display:  \[NSDI 2018\]
+    display: \[NSDI 2019\]
   highlight: 1
-  tag1: sensing
+  tag1: spectrum_sensing
   tag2: 
-  news1: The work on SweepSense won the <a href="https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2019-north-america">Qualcomm Innovation Fellowship 2019</a>
+  news1: This work won the <a href="https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2019-north-america">Qualcomm Innovation Fellowship 2019</a>
   news2: 
+  website:
+    url: https://github.com/ucsdsysnet/SweepSense/tree/master
+    display: SweepSense Repository and Website
 
 - title: "SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception"
   image: signet.png

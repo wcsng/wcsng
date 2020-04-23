@@ -8,7 +8,19 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black_full_long.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
+### About
+
+Our group works at the intersection of Wireless Communication, Sensing and Networking (hence WCSNG). We develop theory and algorithms with special focus on
+implementation and protyping of solutions in our impact areas. Our current impact areas include: **wireless localization, sensing for autonomous driving, sensing for healthcare, spectrum sensing for next-generation networks, and wireless systems for VR/AR applications**.
+
+We have a multi-discplinary team with collaborative efforts across ECE, CSE and MAE departments. The group has a strong foundation in signal processing, system design and modeling. We use a wide repertoire of software to verify our theory and approach. We routinely work with wireless radios, both off-the-shelf and those designed in house. Our members are also experienced in data gathering and use popular machine learning techniques to expose cross-layer solutions to problems.
+
+<!-- 
+We are proud members of **Wireless Communication Sensing and Networking Group (WCSNG)**. We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
+
+We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We also develop customized testbed for full duplex and millimeter wave research. Our group targets top system conferences such as NSDI, Mobicom, Siggcom, Mobisys among others. -->
+
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
 
 ### [Dinesh Bharadia](https://web.eng.ucsd.edu/~dineshb/)
 Assistant Professor\\
@@ -17,14 +29,7 @@ University of California, San Diego
 
 
 Office: Atkinson Hall, 4308\\
-Email: dineshb [at] eng.ucsd.edu
-
-### About
-
-We are proud members of **Wireless Communication Sensing and Networking Group (WCSNG)**. We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
-
-We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We also develop customized testbed for full duplex and millimeter wave research. Our group targets top system conferences such as NSDI, Mobicom, Siggcom, Mobisys among others.
-
+Email: dineshb [at] eng.ucsd.edu -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -83,7 +88,7 @@ We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We a
 <div class="row">
 {% endif %}
 
-<div class="col-sm-9 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit> <font size="+2">{{ publi.title }}</font></pubtit>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
@@ -111,7 +116,7 @@ We work with software radios such as USRP, WARP board, GPS, Quantenna WiFi. We a
 </div>
 {% endif %}
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
 
 
 <!--We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).

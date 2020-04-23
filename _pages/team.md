@@ -8,10 +8,39 @@ permalink: /team/
 
 # Group Members
 
+
+
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(See Opportunities)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
 
+Jump to [master's students](#masters-students), [undergrad students](#undergraduate-students) and [alumni](#alumni) members.
 
-Jump to [masters students](#masters-students), [undergrad students](#undergraduate-students) and [alumni](#alumni) members.
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="25%" style="float: left; padding-right: 30px;" />
+
+### [Dinesh Bharadia](https://web.eng.ucsd.edu/~dineshb/)
+Assistant Professor\\
+Department of Electrical Engineering\\
+University of California, San Diego
+
+
+Office: Atkinson Hall, 4308\\
+Email: dineshb [at] eng.ucsd.edu -->
+<!-- ## Principal Investigator -->
+<div class="row">
+<!-- <div class="col-sm-6 clearfix"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/dinesh.jpg" class="img-responsive" width="15%" style="float: left" />
+  <h3>Dinesh Bharadia</h3>
+  Principal Investigator, WCSNG<br><br>
+  Assistant Professor<br>
+  Department of Electrical and Computer Engineering <br>
+  University of California, San Diego <br>
+  Email: <b>dineshb [at] eng.ucsd.edu</b> | Office: 4308, Atkinson Hall | <a href="https://web.eng.ucsd.edu/~dineshb/"> Personal Website </a> | <a href="https://scholar.google.com/citations?user=5SjaXJsAAAAJ&hl=en"> Google Scholar </a> 
+  <ul style="overflow: hidden">
+
+  </ul>
+<!-- </div> -->
+</div>
+
+
 
 ## PhD Students
 {% assign number_printed = 0 %}
@@ -132,7 +161,7 @@ Jump to [masters students](#masters-students), [undergrad students](#undergradua
 {% endif %}
 
 
-## Masters Students
+## Master's Students
 
 
 {% assign number_printed = 0 %}

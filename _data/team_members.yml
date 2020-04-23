@@ -21,7 +21,7 @@
   education4: 
 
 - name: Yeswanth Reddy G.
-  photo: yeswanth.jpg
+  photo: yeswanth.jpeg
   info: PhD student, started 2017
   email: yguddeti@eng.ucsd.edu
   number_educ: 2
@@ -76,12 +76,12 @@
   education3:
   education4:
 
-- name: Raghav V Subbaraman
+- name: Raghav Subbaraman
   photo: raghav.png
   info: PhD Student, started 2019
   email: rsubbaraman@eng.ucsd.edu
   number_educ: 2
-  education1:  Raghav's research currently focuses on spectrum sensing and exploring new wireless sensing techniques.
+  education1:  Raghav's research areas span spectrum sensing and development of robust wireless testbed platforms. He is particularly interested in understanding how sensing can influence control and orchestration of communication systems.
   education2: "Highlights: NSDI'19"
   education3:
   education4:
