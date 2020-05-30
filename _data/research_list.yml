@@ -38,6 +38,16 @@
   highlight: 1
   news2:
 
+# - title: "Ubiquitous IoT"
+#   image: backscatter.jpg
+#   description: Harnessing wireless backscatter and low-power communication, for ubiquitous IoT sensing and wireless channel conditioning.
+#   authors: 
+#   link:
+#     url: /ubiquitousIoT/
+#     display:  Details and Publications
+#   highlight: 1
+#   news2:
+
 - title: "Vehicular Sensing (Radar)"
   image: v2x.jpg
   description: Sensing for autonomous vehicles, toward multi-sensor fusion and robust radar imaging. 

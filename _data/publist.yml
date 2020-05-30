@@ -12,6 +12,9 @@ The device, which is housed in a chip smaller than a grain of rice, enables Inte
   tag1: backscatter
   tag2: communication
   news2: 
+  website: 
+    url: https://wcsng.ucsd.edu/ubiquitousIoT/
+    display: Ubiquitous IoT Project Page
 
 
 - title: "ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces"
