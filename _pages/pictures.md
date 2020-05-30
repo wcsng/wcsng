@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Pictures"
+title: "WCSNG - Pictures"
 layout: piclay
-excerpt: "WCSNG Lab -- Pictures"
+excerpt: "WCSNG -- Pictures"
 permalink: /pictures/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "WCSNG Lab - Research"
+title: "WCSNG - Research"
 layout: projectnewslay
 excerpt: "LocAP"
 sitemap: false

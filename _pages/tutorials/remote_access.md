@@ -1,5 +1,5 @@
 ---
-title: "WCSNG Lab - Tutorials"
+title: "WCSNG - Tutorials"
 layout: gridlay
 excerpt: "Remote access"
 sitemap: false

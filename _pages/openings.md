@@ -1,5 +1,5 @@
 ---
-title: "WCSNG Lab - Vacancies"
+title: "WCSNG - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

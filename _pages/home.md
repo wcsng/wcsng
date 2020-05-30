@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Home"
+title: "WCSNG - Home"
 layout: homelay
-excerpt: "WCSNG Lab at UC San Diego."
+excerpt: "WCSNG at UC San Diego."
 sitemap: false
 permalink: /
 ---

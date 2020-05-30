@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Publications"
+title: "WCSNG - Publications"
 layout: gridlay
-excerpt: "WCSNG Lab -- Publications."
+excerpt: "WCSNG -- Publications."
 sitemap: false
 permalink: /publications/
 ---

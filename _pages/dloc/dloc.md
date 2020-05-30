@@ -1,5 +1,5 @@
 ---
-title: "WCSNG Lab - Research"
+title: "WCSNG - Research"
 layout: gridlay
 excerpt: "DLoc"
 sitemap: false

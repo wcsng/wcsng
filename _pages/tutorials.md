@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Tutorials"
+title: "WCSNG - Tutorials"
 layout: gridlay
-excerpt: "WCSNG Lab -- Tutorials"
+excerpt: "WCSNG -- Tutorials"
 sitemap: false
 permalink: /tutorials/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "WCSNG Lab at Leiden University."
+excerpt: "WCSNG"
 sitemap: false
 permalink: /blocnews.html
 ---

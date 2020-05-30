@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Research"
+title: "WCSNG - Research"
 layout: gridlay
-excerpt: "WCSNG Lab -- UbiquitousIoT"
+excerpt: "WCSNG -- UbiquitousIoT"
 sitemap: false
 permalink: /ubiquitousIoT/
 ---

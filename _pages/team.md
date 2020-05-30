@@ -1,7 +1,7 @@
 ---
-title: "WCSNG Lab - Team"
+title: "WCSNG - Team"
 layout: gridlay
-excerpt: "WCSNG Lab: Team members"
+excerpt: "WCSNG: Team members"
 sitemap: false
 permalink: /team/
 ---

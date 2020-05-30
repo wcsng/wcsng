@@ -30,9 +30,9 @@ Directory `_Data`
 Directory `_pages`:
 A standard template for all pages
 ```
-title: "WCSNG Lab - Research"
+title: "WCSNG - Research"
 layout: gridlay
-excerpt: "WCSNG Lab -- Research"
+excerpt: "WCSNG -- Research"
 sitemap: false
 permalink: /research/
 ```
