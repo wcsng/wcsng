@@ -48,7 +48,7 @@ throughput improvement of 2x over the active AP alone."
   tag2: communication
   news2: 
   website: 
-    url: scattermimo/
+    url: http://wcsng.ucsd.edu/scattermimo/
     display: ScatterMIMO-Webpage
   paper: 
     url: files/scattermimo.pdf
@@ -67,7 +67,7 @@ throughput improvement of 2x over the active AP alone."
   tag2: 
   news2: 
   website: 
-    url: dloc/
+    url: http://wcsng.ucsd.edu/dloc/
     display: DLoc-Webpage
   paper: 
     url: files/dloc.pdf
@@ -93,7 +93,7 @@ throughput improvement of 2x over the active AP alone."
   tag2: 
   news2:
   website: 
-    url: locap/
+    url: http://wcsng.ucsd.edu/locap/
     display: LocAP-Webpage
   paper: 
     url: files/LocAP_paper.pdf
@@ -184,7 +184,7 @@ throughput improvement of 2x over the active AP alone."
     url3: https://dl.acm.org/doi/10.1145/3281411.3281428
     display3: talk
   website:
-    url: bloc/
+    url: http://wcsng.ucsd.edu/bloc/
     display: BLoc-webpage
 - title: "FreeRider: Backscatter Communication Using Commodity Radios"
   image: freerider.png
