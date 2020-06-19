@@ -104,7 +104,7 @@ throughput improvement of 2x over the active AP alone."
   presentation: 
     url1: files/locap-ppt.pptx
     display1: ppt
-    url2: files/locap-ppt.pdf
+    url2: files/LocAP_NSDI_slides.pdf
     display2: pdf
     url3: 404.html
     display3: talk
