@@ -28,7 +28,7 @@ permalink: localization.html
 <div class="col-sm-13 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/{{ publi.website.url }}">{{ publi.website.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.website.url }}">{{ publi.website.display }}</a></strong></p>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left" hspace="20" />
   <p>{{ publi.description }}</p>
