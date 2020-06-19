@@ -51,7 +51,7 @@ throughput improvement of 2x over the active AP alone."
   tag2: communication
   news2: 
   website: 
-    url: http://wcsng.ucsd.edu/scattermimo/
+    url: https://wcsng.ucsd.edu/scattermimo/
     display: ScatterMIMO-Webpage
   paper: 
     url: files/scattermimo.pdf
@@ -187,7 +187,7 @@ throughput improvement of 2x over the active AP alone."
     url3: https://dl.acm.org/doi/10.1145/3281411.3281428
     display3: talk
   website:
-    url: http://wcsng.ucsd.edu/bloc/
+    url: https://wcsng.ucsd.edu/bloc/
     display: BLoc-webpage
 - title: "FreeRider: Backscatter Communication Using Commodity Radios"
   image: freerider.png
