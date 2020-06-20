@@ -2,7 +2,7 @@
 title: "WCSNG - Research"
 layout: gridlay
 excerpt: "WILD"
-sitemap: false
+sitemap: true
 permalink: /wild/
 ---
 
@@ -13,65 +13,26 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
 
 ---
 
-# Datasets
-
-<div class="col-sm-8 clearfix">
-
-<div class="col-sm-6 clearfix">
-
-### Channel Downloads:
-
-- [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Ede931QqxmxFmHwiYz_H5dwBHVH8SnB02BjfAAWpD9FXXQ?download=1)
-- [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ESiVhglOHNNPh7h5IjGSz3ABzuzyDVI-XCzWBJFouu5IoA?download=1)
-- [jacobs_Aug16_1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ER16mpDpebhMof2Gqd-hwoEB5koMPqkf7WKFbnGzsXaoRQ?download=1)
-- [jacobs_Aug16_3](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EbkEtMzmNU5Em9knfGr2iLABOyNOEjfXwXeBRncGYQABww?download=1)
-- [jacobs_Aug16_4_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EdxQp9YoxtNBm3pZeMfiw1gBSYaC9FoXUaukNSEn8dV9Mw?download=1)
-- [July16](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EUSLpysLge9EsVAe-r96ToUB_DWHcmMs2-kM_ANeFYWYcg?download=1)
-- [July18](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eela0I6LUQJNpwj_nBSD4B0BMnbt2ZQnrgqIKFTkznWcaw?download=1)
-- [July22_2_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EZySLl-lUIBIiGdpR9tjgksBIEP2jqq4pRshkHxekcPNaA?download=1)
-
-</div>
-
-<div class="col-sm-6 clearfix">
-
-### Feature Downloads:
-
-- [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EYRJAe2dHaRNt6AGTpA9bEkBp7N0lEYScmEzT4HNaNbx1Q?download=1)
-- [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EeQf1sXiWehGsD5BCQ08ui8BiDOdhNyq_f7Bf3OHe-lXZw?download=1)
-- [jacobs_Aug16_1](https://wcsng.ucsd.edu/404)
-- [jacobs_Aug16_3](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EUxwVT0kyFBKh2LY45vfrMYBlDApo4Alyr3xzyxOUsf0cQ?download=1)
-- [jacobs_Aug16_4_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ETdyRRQe7UlJg5Aa5VsFf1ABsLj-aQWnRINB2VpHX_6XNw?download=1)
-- [July16](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eakj2NQkpHRAjOtNUeV6y58B0tgFRVDuRpRnA6os5EXhBw?download=1)
-- [July18](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EVI3UwbFH9ZMuk3N0sORXpgBXswXPXJWb5VMl6HW-Tl5ng?download=1)
-- [July22_2_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EVkpRrl4ZaxBvyqXN5nWOLYBfPWIYfSvhWN6YeNfKdOXFA?download=1)
-
-</div>
-
-</div>
-
-<div class="col-sm-4 clearfix">
 <div class="well">
-<h2>Updates</h2>
-<i><font color="gray">June 20, 2020</font></i>
-<p>First release of the Location labelled WiFi CSI data and features data used in <a href="https://wcsng.ucsd.edu/dloc">DLoc</a>.</p>
-<i><font color="gray">Feb, 2020</font></i>
-<p><a href="https://wcsng.ucsd.edu/dloc">DLoc</a> has been accepted in Mobicom 2020.</p>
-</div>
+ <center>
+ <A href="#documentation">Documentation</A>&emsp;&emsp;<A href="#downloads">Downloads</A>&emsp;&emsp;<a href="https://forms.gle/WWGymUFxhPWRc4zu7">LICENSE</a>&emsp;&emsp;<A href="#updates">Updates</A>&emsp;&emsp;<A href="#citation">CITATION</A>
+ </center>
 </div>
 
-#### All the dataset downloads are **PASSWORD** protected. To get the password, please read and agree to the [terms and conditions](https://forms.gle/WWGymUFxhPWRc4zu7). You can then proceed to download datasets from the links above.
 
 ---
 
-## Two Different Environments
+## Documentation ##
+
+### Two Different Environments
 <div class="col-sm-12 clearfix">
 
 <div class="col-sm-6 clearfix">
 
 <h4> 1. Complex High-multipath and NLOS environment (1500 sq. ft.) with 5 different setups</h4>
 <a href="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png" width="100%" style="float: center" > </a>
-  - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >
-  <p>**jacobs_Jul28**: 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019.</p>
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >
+<p>**jacobs_Jul28**: 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019.</p>
 - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >
 <p>**jacobs_Jul28_2**: 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019, one hour after **jacobs_Jul28**.</p>
 - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_aug16_1.png" width="50%" style="float: center" >
@@ -96,9 +57,9 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
 
 ---
 
-We provide both the CSI data for all the above setups and the post-prcessed features for running our DLoc network. **All the corresponding links can be found above with the description of their environments and setups.**
+We provide both the CSI data for all the above setups and the post-prcessed features for running our DLoc network. **All the corresponding links can be found below.**
 
-## Channels
+### Channels
 
 The CSI data is named as **channels_<setup_name_from_above>.mat**. These MATLAB files are stored using **HDF5** file structure and contain the following variables:
 
@@ -114,7 +75,7 @@ The CSI data is named as **channels_<setup_name_from_above>.mat**. These MATLAB 
 - **d1**: The sampled x-axis of the space under consideration
 - **d2**: The sampled y-axis of the space under consideration
 
-## Features
+### Features
 
 The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is named as **features_<setup_name_from_above>.mat**. These MATLAB files are stored using **HDF5** file structure and contain the following variables:
 
@@ -123,5 +84,57 @@ The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is name
 - **labels_gaussian_2d**: *[ n_datapoints x n_d1_points X n_d2_points ]* 3D labels matrix that contisn the target images for the location network.
 - **labels**: *[ n_datapoints x 2 ]* 2D XY labels.
 
+---
+
+## Downloads ##
+
+<div class="col-sm-12 clearfix">
+
+<div class="col-sm-6 clearfix">
+
+### Channel Downloads:
+
+- [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Ede931QqxmxFmHwiYz_H5dwBHVH8SnB02BjfAAWpD9FXXQ?download=1)
+- [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ESiVhglOHNNPh7h5IjGSz3ABzuzyDVI-XCzWBJFouu5IoA?download=1)
+- [jacobs_Aug16_1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ER16mpDpebhMof2Gqd-hwoEB5koMPqkf7WKFbnGzsXaoRQ?download=1)
+- [jacobs_Aug16_3](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EbkEtMzmNU5Em9knfGr2iLABOyNOEjfXwXeBRncGYQABww?download=1)
+- [jacobs_Aug16_4_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EdxQp9YoxtNBm3pZeMfiw1gBSYaC9FoXUaukNSEn8dV9Mw?download=1)
+- [July16](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EUSLpysLge9EsVAe-r96ToUB_DWHcmMs2-kM_ANeFYWYcg?download=1)
+- [July18](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eela0I6LUQJNpwj_nBSD4B0BMnbt2ZQnrgqIKFTkznWcaw?download=1)
+- [July22_2_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EZySLl-lUIBIiGdpR9tjgksBIEP2jqq4pRshkHxekcPNaA?download=1)
+
+</div>
+
+<div class="col-sm-6 clearfix">
+
+### Feature Downloads:
+
+- [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EYRJAe2dHaRNt6AGTpA9bEkBp7N0lEYScmEzT4HNaNbx1Q?download=1)
+- [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EeQf1sXiWehGsD5BCQ08ui8BiDOdhNyq_f7Bf3OHe-lXZw?download=1)
+- [jacobs_Aug16_1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EQ3xv70aECdDguiYTA3px0cBUQCJc5T7WFFrjeb67Ww2CA?download=1)
+- [jacobs_Aug16_3](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EUxwVT0kyFBKh2LY45vfrMYBlDApo4Alyr3xzyxOUsf0cQ?download=1)
+- [jacobs_Aug16_4_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ETdyRRQe7UlJg5Aa5VsFf1ABsLj-aQWnRINB2VpHX_6XNw?download=1)
+- [July16](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eakj2NQkpHRAjOtNUeV6y58B0tgFRVDuRpRnA6os5EXhBw?download=1)
+- [July18](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EVI3UwbFH9ZMuk3N0sORXpgBXswXPXJWb5VMl6HW-Tl5ng?download=1)
+- [July22_2_ref](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EVkpRrl4ZaxBvyqXN5nWOLYBfPWIYfSvhWN6YeNfKdOXFA?download=1)
+
+</div>
+
+</div>
+
+#### All the dataset downloads are **PASSWORD** protected. To get the password, please read and agree to the [terms and conditions](https://forms.gle/WWGymUFxhPWRc4zu7). You can then proceed to download datasets from the links above.
+
+---
+
+## Updates ##
+<i><font color="gray">June 20, 2020</font></i>
+<p>First release of the Location labelled WiFi CSI data and features data used in <a href="https://wcsng.ucsd.edu/dloc">DLoc</a>.</p>
+<i><font color="gray">Feb, 2020</font></i>
+<p><a href="https://wcsng.ucsd.edu/dloc">DLoc</a> has been accepted in Mobicom 2020.</p>
 
 
+---
+
+## CITATION ##
+
+- Ayyalasomayajula R, Arun A, Wu C, Sharma S, Sethi AR, Vasisht D, Bharadia D. Deep learning based wireless localization for indoor navigation. InProceedings of the 26th Annual International Conference on Mobile Computing and Networking 2020 Apr 16 (pp. 1-14).
