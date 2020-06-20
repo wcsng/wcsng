@@ -10,9 +10,9 @@ permalink: /dloc/
 ---
 ### Mobicom 2020
 ```
-Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi Deepak Vasisht, Dinesh Bharadia
+Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi, Deepak Vasisht, Dinesh Bharadia
 ```
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video]
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video] <a href= "https://wcsng.ucsd.edu/wild">[Datasets]</a>
 
 <div class="well">
 <h3> WiFi Datasets News: </h3>
