@@ -12,9 +12,13 @@ permalink: /dloc/
 ```
 Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi Deepak Vasisht, Dinesh Bharadia
 ```
-
-
 #### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video]
+
+<div class="well">
+<h3> WiFi Datasets News: </h3>
+<h4> 06/20/2020: We are releasing the largest location labelled WiFi CSI dataset, that can be accessed at <a href= "https://wcsng.ucsd.edu/wild">WILD</a> webpage.</h4>
+</div>
+
 
 ### Motivation
 Location services, fundamentally, rely on two components: a mapping system and a positioning system. The mapping system provides the physical map of the space, and the positioning system identifies the position within the map. Outdoor location services have

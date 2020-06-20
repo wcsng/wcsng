@@ -1,0 +1,97 @@
+---
+title: "WCSNG - Research"
+layout: gridlay
+excerpt: "WILD"
+sitemap: false
+permalink: /wild/
+---
+
+# Wireless Indoor Localization Dataset (WILD)
+```
+Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
+```
+#### [Auxilary Works: Indoor Navigation using Deep Learning, Mobicom 2020](https://wcsng.ucsd.edu/dloc)
+----
+
+# Datasets
+#### The dataset downloads are **PASSWORD** protected, to receive the password to your email, please read and agree to the [terms and conditions](https://forms.gle/WWGymUFxhPWRc4zu7)
+
+
+## Two Different Environments
+<div class="col-sm-12 clearfix">
+
+<div class="col-sm-6 clearfix">
+
+<h4> 1. Complex High-multipath and NLOS environment (1500 sq. ft.) with 5 different setups</h4>
+<a href="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png" width="100%" style="float: center" > </a>
+  - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >**jacobs_Jul28**: 
+	- 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019.
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Ede931QqxmxFmHwiYz_H5dwBHVH8SnB02BjfAAWpD9FXXQ?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >**jacobs_Jul28_2**: 
+	- 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019, one hour after **jacobs_Jul28**
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ESiVhglOHNNPh7h5IjGSz3ABzuzyDVI-XCzWBJFouu5IoA?e=1ldvJM)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_aug16_1.png" width="50%" style="float: center" >**jacobs_Aug16_1**: 
+	- 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on August 16, 2019 with extra furniture placed randomly
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ER16mpDpebhMof2Gqd-hwoEB5koMPqkf7WKFbnGzsXaoRQ?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_aug16_3.png" width="50%" style="float: center" >**jacobs_Aug16_3**: 
+	- 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on August 16, 2019 with extra furniture placed randomly
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EbkEtMzmNU5Em9knfGr2iLABOyNOEjfXwXeBRncGYQABww?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_aug16_4_ref.png" width="50%" style="float: center" >**jacobs_Aug16_4_ref**: 
+	- 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on August 16, 2019 with extra furniture placed randomly with an added reflector (*a huge aluminium plated board*)
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EdxQp9YoxtNBm3pZeMfiw1gBSYaC9FoXUaukNSEn8dV9Mw?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4> 2. Simple LOS based environment (500 sq. ft.) with 3 different setups: </h4>
+<a href="{{ site.url }}{{ site.baseurl }}/images/respic/atkinson.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/atkinson.png" width="95%" style="float: center" > </a>
+  - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/atk_July22_1_ref.png" width="40%" style="float: center" >**July16**: 
+	- 8m X 5m setup with 3 APs in Atkinson hall ground floor for data collected on July 16, 2019.
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EUSLpysLge9EsVAe-r96ToUB_DWHcmMs2-kM_ANeFYWYcg?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/atk_July22_1_ref.png" width="40%" style="float: center" >**July18**: 
+	- 8m X 5m setup with 3 APs in Atkinson hall ground floor for data collected on July 18, 2019.
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eela0I6LUQJNpwj_nBSD4B0BMnbt2ZQnrgqIKFTkznWcaw?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/atk_July22_2_ref.png" width="40%" style="float: center" >**July22_2_ref**: 
+	- 8m X 5m setup with 3 APs and 2 additonal reflectors (*a huge aluminium plated board*) placed in Atkinson hall ground floor for data collected on July 2, 2019.
+	- [channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EZySLl-lUIBIiGdpR9tjgksBIEP2jqq4pRshkHxekcPNaA?download=1)
+	- [features](https://wcsng.ucsd.edu/404)
+</div>
+</div>
+
+---
+
+We provide both the CSI data for all the above setups and the post-prcessed features for running our DLoc network. **All the corresponding links can be found above with the description of their environments and setups.**
+
+## Channels
+
+The CSI data is named as **channels_<setup_name_from_above>.mat**. These MATLAB files are stored using **HDF5** file structure and contain the following variables:
+
+- **channels**: *[ n_datapoints x n_frequency x n_ant X n_ap ]* 4D complex channel matrix.
+- **RSSI**: *[ n_datapoints x n_ap ]* 2D recieved signal strenght matrix.
+- **labels**: *[ n_datapoints x 2 ]* 2D XY labels.
+- **opt**: various options specific for the data generated
+	-*opt.freq* : *[n_frequencyx1]* 1D vector that describes the frequency of the subcarriers
+	-*opt.lambda*: *[n_frequencyx1]* 1D vector that describes the wavelength of the subcarriers
+	-*ant_sep*: antenna separation used on all of our APs
+- **ap**: *n_ap* cell matrix. Each element corresposning to *[ n_ant x 2 ]* XY locations of the n_ant on each AP.
+- **ap_aoa**: *[ n_ap x 1]* vectors that contains the rotation that needs to be added to the AoA measured at each AP (assumes that the AoA is measured about the normal to the AP's antenna array)
+- **d1**: The sampled x-axis of the space under consideration
+- **d2**: The sampled y-axis of the space under consideration
+
+## Features
+
+The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is named as **features_<setup_name_from_above>.mat**. These MATLAB files are stored using **HDF5** file structure and contain the following variables:
+
+- **features_with_offset**: *[ n_datapoints x n_ap x n_d1_points X n_d2_points ]* 4D feature matrix for n_ap **with offsets** in time
+- **features_without_offset**: *[ n_datapoints x n_ap x n_d1_points X n_d2_points ]* 4D feature matrix for n_ap **without offsets** in time
+- **labels_gaussian_2d**: *[ n_datapoints x n_d1_points X n_d2_points ]* 3D labels matrix that contisn the target images for the location network.
+- **labels**: *[ n_datapoints x 2 ]* 2D XY labels.
+
+
+
