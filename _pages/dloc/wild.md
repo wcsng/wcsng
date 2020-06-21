@@ -94,6 +94,8 @@ The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is name
 
 ### Channel Downloads:
 
+[All channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EfERb1sUk65CjMrSIyD1b9kB0MFKf-d57gO3d7jRses6BQ?download=1)
+
 - [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Ede931QqxmxFmHwiYz_H5dwBHVH8SnB02BjfAAWpD9FXXQ?download=1)
 - [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ESiVhglOHNNPh7h5IjGSz3ABzuzyDVI-XCzWBJFouu5IoA?download=1)
 - [jacobs_Aug16_1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ER16mpDpebhMof2Gqd-hwoEB5koMPqkf7WKFbnGzsXaoRQ?download=1)
@@ -108,6 +110,8 @@ The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is name
 <div class="col-sm-6 clearfix">
 
 ### Feature Downloads:
+
+[Features Atkinson]() &emsp; [Features Jacobs]()
 
 - [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EYRJAe2dHaRNt6AGTpA9bEkBp7N0lEYScmEzT4HNaNbx1Q?download=1)
 - [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EeQf1sXiWehGsD5BCQ08ui8BiDOdhNyq_f7Bf3OHe-lXZw?download=1)
