@@ -15,7 +15,7 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
 
 <div class="well">
  <center>
- <A href="#documentation">Documentation</A>&emsp;&emsp;<A href="#downloads">Downloads</A>&emsp;&emsp;<a href="https://forms.gle/WWGymUFxhPWRc4zu7">LICENSE</a>&emsp;&emsp;<A href="#updates">Updates</A>&emsp;&emsp;<A href="#citation">CITATION</A>
+ <h4><A href="#documentation">Documentation</A>&emsp;&emsp;<A href="#downloads">Downloads</A>&emsp;&emsp;<a href="https://forms.gle/WWGymUFxhPWRc4zu7">LICENSE</a>&emsp;&emsp;<A href="#updates">Updates</A>&emsp;&emsp;<A href="#citation">CITATION</A></h4>
  </center>
 </div>
 
@@ -29,7 +29,7 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
 
 <div class="col-sm-6 clearfix">
 
-<h4> 1. Complex High-multipath and NLOS environment (1500 sq. ft.) with 5 different setups</h4>
+<h4> 1. Complex High-multipath and NLOS environment (1500 sq. ft.) with 5 different setups in Jacobs Hall UCSD</h4>
 <a href="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs.png" width="100%" style="float: center" > </a>
 - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/jacobs_default.png" width="50%" style="float: center" >
 <p>**jacobs_Jul28**: 18m X 8m setup with 4 APs in Jacobs hall ground floor for data collected on July 28, 2019.</p>
@@ -44,7 +44,7 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4> 2. Simple LOS based environment (500 sq. ft.) with 3 different setups: </h4>
+<h4> 2. Simple LOS based environment (500 sq. ft.) with 3 different setups in Atkison Hall UCSD </h4>
 <a href="{{ site.url }}{{ site.baseurl }}/images/respic/atkinson.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/atkinson.png" width="95%" style="float: center" > </a>
   - <img src="{{ site.url }}{{ site.baseurl }}/images/respic/atk_July22_1_ref.png" width="40%" style="float: center" >
   <p>**July16**: 8m X 5m setup with 3 APs in Atkinson hall ground floor for data collected on July 16, 2019.</p>
@@ -94,8 +94,9 @@ The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is name
 
 ### Channel Downloads:
 
-[All channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EfERb1sUk65CjMrSIyD1b9kB0MFKf-d57gO3d7jRses6BQ?download=1)
+Cumulative Downloads: [All channels](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EfERb1sUk65CjMrSIyD1b9kB0MFKf-d57gO3d7jRses6BQ?download=1)
 
+Individual Downloads:
 - [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Ede931QqxmxFmHwiYz_H5dwBHVH8SnB02BjfAAWpD9FXXQ?download=1)
 - [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ESiVhglOHNNPh7h5IjGSz3ABzuzyDVI-XCzWBJFouu5IoA?download=1)
 - [jacobs_Aug16_1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ER16mpDpebhMof2Gqd-hwoEB5koMPqkf7WKFbnGzsXaoRQ?download=1)
@@ -111,7 +112,9 @@ The 2D heatmap features data used in [DLoc](https://wcsng.ucsd.edu/dloc) is name
 
 ### Feature Downloads:
 
-[Features Atkinson]() &emsp; [Features Jacobs]()
+Cumulative Donloads: [Features Atkinson](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/ET3bKqoYpExCmanla2bLUJEBlC8TXhLL9U2ygNLzMWOrYg?download=1). [Features Jacobs-1](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EbkyAttzBLFMtPlYgkxGMaYB_J6tBExvs1qw8DazkzSdQQ?download=1), [Features Jacobs-2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eeku7wzVdL9FrvhMasCr3D8Ba_YeoZZo7pvU3wkCMglaVA?download=1), [Features Jacobs-3](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/Eb82hHQ5SVdJqqFi4fkC1dYB9o76v43jNT1Df5WHC4tm5A?download=1).
+
+Individual Downloads:
 
 - [jacobs_Jul28](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EYRJAe2dHaRNt6AGTpA9bEkBp7N0lEYScmEzT4HNaNbx1Q?download=1)
 - [jacobs_Jul28_2](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/sayyalas_ucsd_edu/EeQf1sXiWehGsD5BCQ08ui8BiDOdhNyq_f7Bf3OHe-lXZw?download=1)
