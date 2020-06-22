@@ -133,15 +133,17 @@ Individual Downloads:
 
 ---
 
-## Updates ##
-<i><font color="gray">June 20, 2020</font></i>
-<p>First release of the Location labelled WiFi CSI data and features data used in <a href="https://wcsng.ucsd.edu/dloc">DLoc</a>.</p>
-<i><font color="gray">Feb, 2020</font></i>
-<p><a href="https://wcsng.ucsd.edu/dloc">DLoc</a> has been accepted in Mobicom 2020.</p>
-
-
----
-
 ## CITATION ##
 
 - Ayyalasomayajula R, Arun A, Wu C, Sharma S, Sethi AR, Vasisht D, Bharadia D. Deep learning based wireless localization for indoor navigation. InProceedings of the 26th Annual International Conference on Mobile Computing and Networking 2020 Apr 16 (pp. 1-14).
+
+  [Bibtex]({{ site.url }}{{ site.baseurl }}/files/dloc_bib.md)
+
+---
+
+## Updates ##
+<i><font color="gray">June 20, 2020</font></i>
+<p>First release of the Location labelled WiFi CSI data and features data used in <a href="https://wcsng.ucsd.edu/dloc">DLoc</a>.</p>
+<i><font color="gray">Jan, 2020</font></i>
+<p><a href="https://wcsng.ucsd.edu/dloc">DLoc</a> has been accepted in Mobicom 2020.</p>
+  
