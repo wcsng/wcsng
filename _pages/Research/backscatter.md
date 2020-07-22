@@ -27,12 +27,16 @@ permalink: backscatter.html
 
 <div class="col-sm-13 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <p><strong><a href="{{ publi.website.url }}">{{ publi.website.display }}</a></strong></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left" hspace="20" />
+  <pubtit>{{ publi.title }} <a href="{{ publi.link.url }}"><span style="color:tomato;">{{ publi.link.display }}</span></a></pubtit>
+  <p><strong>
+  <a href="{{ publi.website.url }}">{{ publi.website.display }}</a>
+  <a href="{{ publi.paper.url }}"><span style="color:#D35400;">{{ publi.paper.display }}</span></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/{{ publi.presentation.url }}"><span style="color:#7D3C98;">{{ publi.presentation.display }}</span></a> 
+  </strong></p>
+  <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" hspace="20" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>

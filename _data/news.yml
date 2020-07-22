@@ -1,8 +1,21 @@
+
+- date: July 2020
+  headline: "mmNets'20 workshop paper got accepted on NRnet, our 28 GHz testbed for 5G NR experiments. Congrats Ish and team!"
+
+- date: June 2020
+  headline: "ECCV'20 paper got accepted on S-cube Net: Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic Data. Congrats Inderjot and team!"
+
 - date: June 2020
   headline: WCSNG is opensourcing largest available, real-world indoor Location labelled WiFi CSI dataset, <a href="https://wcsng.ucsd.edu/wild/">WILD</a> for non-profit research purposes.
 
+- date: June 2020
+  headline: <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, our Covid-19 app is in news  <a href="bit.ly/2OxZ7P6">here</a> and <a href="https://techxplore.com/news/2020-07-bluble-covid-accurate-contact.html">here</a>
+
+- date: June 2020
+  headline: ScatterMIMO- our smart reflecting surface that can double the WiFi throughput is in news <a href="bit.ly/2R3r3vy">here</a> and <a href="https://www.hackster.io/news/scattermimo-smart-surface-runs-for-a-year-on-a-button-cell-doubles-wi-fi-speeds-8ea4f374cc59">here</a>
+
 - date: Apr 2020
-  headline:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. Read more...</a>
+  headline:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. Read more...
 
 - date: Mar 2020
   headline:  Roshan qualified PhD candidate exam. Congrats Roshan!

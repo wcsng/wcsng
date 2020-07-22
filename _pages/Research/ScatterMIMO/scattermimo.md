@@ -49,6 +49,9 @@ throughput improvement of 2x over the active AP alone.
 </div>
 <br>
 
+<font color="red">Press cover:</font> 
+    <a style="display: inline-block;" href="https://bit.ly/2R3r3vy">UCSD News</a>, 
+    <a style="display: inline-block;" href="https://www.hackster.io/news/scattermimo-smart-surface-runs-for-a-year-on-a-button-cell-doubles-wi-fi-speeds-8ea4f374cc59">Hackster News</a>,
 
 
 

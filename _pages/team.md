@@ -317,6 +317,16 @@ Jump to [master's students](#masters-students), [undergrad students](#undergradu
 {% endif %}
 
 ### Alumni MS students
+* Aman Goyal (MS 2020) (OTFS communication) (Now at Apple, SJ)
+* Rohit Kumar(MS 2020) (Full Duplex) (Now at Qualcomm, SD)
+* Shruti Jain (MS 2020) (Full Duplex) (Now at XCOM Labs, SD)
+* Shreya Nayak (MS 2020) (OTFS communication) (Now at Qualcomm, SD)
+* Inderjot Singh (MS 2020) (S-cube Net Machine learning) (Highlight: ECCV'20) (Now at Plus.ai, Cupertino)
+* Aman Raj (MS 2020) (Signet) (Highlight: CVPR'19) (Now at Apple, SJ)
+* Yunchieh (Zena) Chang (MS 2020) (Deep Learning and Indoor Localization)
+* Sanatan Sharma (MS 2020) (Machine Learning) (Highlight: Mobicom'20) (Now at TuSimple, SD)
+* Shrinidhi Venkatakrishnan (MS 2020) (Virtual Reality) (Now at Qualcomm, SD)
+* Tejas Sadarhalli (MS 2020) (5G testbed) (Now at Qualcomm, SD)
 * Shrivatsan Rajagopalan (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SD)
 * Aravind Seetharaman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Qualcomm, SJ)
 * Shreya Ganesaraman (MS 2019) (Localization) (Highlight: NSDI'20) (Now at Intel, SD)
@@ -327,7 +337,24 @@ Jump to [master's students](#masters-students), [undergrad students](#undergradu
 * Vamsidhar Reddy (MS 2019) (Machine Learning) (Now at Cruise Automation, SJ)
 * Rohit Kulkarni (MS 2018) (Spectrum Sensing) (Now at Qualcomm, SD)
 
-### UCSD Summer Research Internship Program (SIP)
+
+
+### UCSD Summer Research Internship Program (SRIP)
+#### Summer 2020
+* Keshav Rungta (BS)
+* Minghui (Scott) Zhao (BS)
+* Shivani Bhakta (BS)
+* Samantha Long (BS)
+* Eamon Patamasing (BS)
+* Yidong Li (BS)
+* Siyuan Zhu (BS)
+* Raini Wu (BS)
+* Tyler Chang (BS)
+* Zijia Guo (BS)
+* Gautham Reddy (MS)
+* Xiangwei Shao (MS)
+* Tian Qiu (MS)
+
 #### Summer 2019
 * Chenfeng Wu (BS) (Robotics SLAM)
 * Scott Zhao (BS) (VR tracking using Radar)
@@ -343,7 +370,7 @@ Jump to [master's students](#masters-students), [undergrad students](#undergradu
 ### International Summer Interns
 #### Summer 2019
 * Rushang Gupta [IITD] (Bluetooth localization)
-* Raunak Shah [IITK] (Machine Learning, Signet)
+* Raunak Shah [IITK] (Machine Learning, Signet) (Highlight: ECCV'20)
 * Aman Tiwari [IITD] (Phone SLAM)
 
 

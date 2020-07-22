@@ -8,82 +8,34 @@
 #  education3:
 #  education4:
 
-- name: Rohit Kumar
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Full Duplex
-  number_educ: 0
-  education1:
+#- name: Rohit Kumar
+#  photo: rock.jpg
+#  info: Master student since 2018
+#  project: Full Duplex
+#  number_educ: 0
+#  education1:
 
-- name: Shruti Jain
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Full Duplex
-  number_educ: 0
-  education1:
+#- name: Shruti Jain
+#  photo: rock.jpg
+#  info: Master student since 2018
+#  project: Full Duplex
+#  number_educ: 0
+#  education1:
 
-- name: Inderjot Singh
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Machine Learning
-  number_educ: 0
-  education1:
+#- name: Inderjot Singh
+#  photo: rock.jpg
+#  info: Master student since 2018
+#  project: Machine Learning
+#  number_educ: 0
+#  education1:
 
-- name: Aman Raj
-  photo: rock.jpg
-  info: Master student since 2018
-  project: "SigNet: 3D Geometry Perception"
-  number_educ: 1
-  education1: "Highlight: Coauthor CVPR'19"
-
-- name: Sanatan Sharma
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Machine Learning
-  number_educ: 1
-  education1: "Highlight: Coauthor Mobicom'20"
-
-- name: Aman Goyal
-  photo: rock.jpg
-  info: Master student since 2018
-  project: OTFS communication
-  number_educ: 0
-  education1:
-
-- name: Shreya Nayak
-  photo: rock.jpg
-  info: Master student since 2018
-  project: OTFS communication
-  number_educ: 0
-  education1:
-
-- name: Tejas Sadarhalli
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Millimeter Wave communications
-  number_educ: 0
-  education1:
-
-- name: Shrinidhi Venkatakrishnan
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Wireless VR
-  number_educ: 0
-  education1:
-
-- name: Yunchieh (Zena) Chang
-  photo: rock.jpg
-  info: Master student since 2018
-  project: Deep Learning and Indoor Localization
-  number_educ: 0
-  education1:
 
 - name: Tian Qiu
   photo: rock.jpg
   info: Master student since 2019
   project: Wireless VR
   number_educ: 0
-  education1:
+  education1: 
 
 
 

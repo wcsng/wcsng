@@ -1,5 +1,14 @@
 # WCSNG UCSD Group Webpage
 
+### Updates
+
+#### July 21
+1. Fix research and publication pages. It looks asthetically better now. Some links are fixed. Added paper pdf from the server.
+2. Update news- ECCV paper, mmNets paper, and Blubble 
+3. Team members- alumni page, New SRIP students
+
+
+### Document
 Note: one time change in `_config.yml`, when you want to host the webpage at `wcsng.github.io/wcsng`.
 ```
 baseurl: "/wcsng"
