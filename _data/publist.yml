@@ -337,6 +337,9 @@ that SpotFi achieves a median accuracy of 40 cm and is robust to indoor hindranc
   news2: 
   tag1: localization
   tag2: 
+  paper: 
+    url: files/sigcomm15-spotfi.pdf
+    display: "[paper]"
 
 - title: "Fastforward: Fast and constructive full duplex relays"
   image: fastforward.png
