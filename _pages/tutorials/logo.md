@@ -9,11 +9,28 @@ permalink: logo/
 # WCSNG slides template
 #### Download template from [here]({{ site.url }}{{ site.baseurl }}/files/template.pptx).
 
+<div class="col-sm-9 clearfix">
+  <a href="{{ site.url }}{{ site.baseurl }}/files/template.pptx"><img src="{{ site.url }}{{ site.baseurl }}/images/tutorialspic/slides_frontpage.png" width="50%" style="float: none" > </a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # WCSNG logos
 ---
-#### Please use the following official logos for WCSNG across all platforms for publicity. 
+#### Please use the following official logos for WCSNG across all platforms for publicity. Download pdf from [wcsng_logo.pdf]({{ site.url }}{{ site.baseurl }}/images/logopic/wcsng_logo.pdf) and [wcsng_logo_full.pdf]({{ site.url }}{{ site.baseurl }}/images/logopic/wcsng_logo_full.pdf)
 
-## Logo Black (transparent background png)
+### Logo Black (transparent background png)
 
 <div class="col-sm-9 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black.png"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black.png" width="10%" style="float: none" > </a>
@@ -60,7 +77,7 @@ permalink: logo/
 <br>
 <br>
 <br>
-## Logo white (transparent background png)
+### Logo white (transparent background png)
 
 <div class="col-sm-9 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_white.png"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_white.png" width="10%" style="float: none" > </a>

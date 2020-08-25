@@ -9,8 +9,8 @@
   news2:
 
 - title: "WCSNG Slides template and Logo design"
-  image: logo_black_full.jpg
-  description: Please use the following slide template and logos for WCSNG across all platforms for publicity. The logos are available in png format in both black as well as white fonts.
+  image: logo_black.png
+  description: Please use the following slide template [download from here]({{ site.url }}{{ site.baseurl }}/files/template.pptx) and logos for WCSNG across all platforms for publicity. The logos are available in png format in both black as well as white fonts. PDF version is also available.
   authors: Ish Jain, Rohit Kumar
   link:
     url: /logo
