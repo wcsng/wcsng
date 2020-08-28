@@ -13,7 +13,7 @@
     url: https://wcsng.ucsd.edu/mmobile/
     display: "[Webpage]"
   paper: 
-    url: files/mMobile.pdf
+    url: files/mmobile.pdf
     display: "[paper]"
 
 - title: "S3Net: Semantic-Aware Self-supervised Depth Estimation with Monocular Videos and Synthetic Data"
