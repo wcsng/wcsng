@@ -6,7 +6,7 @@ sitemap: false
 permalink: /mmobile/
 ---
 
-# mMobile: Building a mmWave testbed to evaluate and address mobility effects
+# mMobile: Building a mmWave Testbed to Evaluate and Address Mobility Effects
 ---
 ### mmNets 2020 Workshop (with Mobicom)
 ```
@@ -22,15 +22,15 @@ Authors: Ish Kumar Jain, Raghav Subbaraman, Tejas Harekrishna Sadarahalli, Xiang
 -->
 
 ### Abstract
-Beamforming methods need to be critically evaluated and improvedto achieve the promised performance of mmWave 5G-NR in highmobility applications like Vehicle-to-Everything (V2X) communi-cation. Conventional beam management methods developed forhigher frequency applications do not directly carry over to the 28GHz mmWave regime, where propagation and reflection character-istics are vastly different. Further, real system deployments and testsare required to verify these methods in a practical setting. In thiswork, we develop mMobile, a custom 5G-NR compliant mmWavetestbed to evaluate beam management algorithms. We describe thearchitecture and challenges in building such a testbed. We then cre-ate a novel, low-complexity beam tracking algorithm by exploitingthe 5G-NR waveform structure and evaluate its performance onthe testbed. The algorithm can sustain almost twice the averagethroughput compared to the baseline.
+Beamforming methods need to be critically evaluated and improved to achieve the promised performance of millimeter wave (mmWave) 5G NR in high mobility applications like Vehicle-to-Everything (V2X) communication. Conventional beam management methods developed for higher frequency applications do not directly carry over to the 28 GHz mmWave regime, where propagation and reflection characteristics are vastly different. Further, real system deployments and tests are required to verify these methods in a practical setting. In this work, we develop mMobile, a custom 5G NR compliant mmWave testbed to evaluate beam management algorithms. We describe the architecture and challenges in building such a testbed. We then create a novel, low-complexity beam tracking algorithm by exploiting the 5G NR waveform structure and evaluate its performance on the testbed. The algorithm can sustain almost twice the average throughput compared to the baseline.
 
 
 <div class="col-sm-9 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}/images/respic/5G/mMobile_testbed.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/5G/mMobile_testbed.png" width="90%" style="float: center" > </a>
 </div>
 
+We show that mMobile is well designed and can support 5G NR specifications. We established a link with 240 kHz subcarrier spacing with a bandwidth of 50 MHz. The radiated transmit power is fixed to an EIRP of 30 dBm. We demonstrate that \name can support a high throughput link with up to 256-QAM constellation with the bit error rate as low as 0.0022 without channel coding. We have also verified that our FPGA baseband platform can be used as gNB with high bandwidth of 400 MHz required for 5G NR. Finally, we show that our phased array module can produce the desired beam patterns when measured in an anechoic chamber.
 
-We show that mMobile is well designed and can support 5G-NR specifications. Especially, it can support a high throughput link with up to 256-QAM constellation with the bit error rate as low as 0.0022 without channel coding. The FPGA baseband platform can be used as gNB with a high bandwidth of 400 MHz required for 5G NR. We also show that our phased array module can produce the desired beam patterns when measured in an anechoic chamber. 
 
 <div class="col-sm-9 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}/images/respic/5G/mMobile_256qam_beampatterns.png"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/5G/mMobile_256qam_beampatterns.png" width="90%" style="float: center" > </a>
@@ -55,7 +55,7 @@ We show that mMobile is well designed and can support 5G-NR specifications. Espe
 
 
 ## mMobile dataset
-Finally, the access to such a testbed is generally out-of-reach to a large research community. To allow the large research community to test and verify novel algorithms for 5G NR mobility management, we release one-of-its-kind mobility dataset. We build the dataset of channel measurements with two important goals. First, it should allow the testing of algorithms based on 5G-NR specific features such as the SSB and CSI-RS. Second, it should easily allow other testbeds to collect and publish similar measurements. We envision this dataset will be useful for testing any new algorithm for mmWave user tracking and mobility management. The dataset is catered to meet these requirements. We plan to continuously add more experiments. 
+The access to such a testbed is generally out-of-reach to a large research community. To allow the large research community to test and verify novel algorithms for 5G NR mobility management, we release one-of-its-kind mobility dataset. We build the dataset of channel measurements with two important goals. First, it should allow the testing of algorithms based on 5G-NR specific features such as the SSB and CSI-RS. Second, it should easily allow other testbeds to collect and publish similar measurements. We envision this dataset will be useful for testing any new algorithm for mmWave user tracking and mobility management. The dataset is catered to meet these requirements. We plan to continuously add more experiments. 
 
 
 <div class="col-sm-9 clearfix">
