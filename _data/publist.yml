@@ -1,3 +1,40 @@
+- title: "mMobile: Building a mmWave testbed to evaluate and address mobility effects"
+  image: mMobile.png
+  description: "Beamforming methods need to be critically evaluated and improvedto achieve the promised performance of mmWave 5G-NR in highmobility applications like Vehicle-to-Everything (V2X) communi-cation. Conventional beam management methods developed forhigher frequency applications do not directly carry over to the 28GHz mmWave regime, where propagation and reflection character-istics are vastly different. Further, real system deployments and testsare required to verify these methods in a practical setting. In thiswork, we develop mMobile, a custom 5G-NR compliant mmWavetestbed to evaluate beam management algorithms. We describe thearchitecture and challenges in building such a testbed. We then cre-ate a novel, low-complexity beam tracking algorithm by exploitingthe 5G-NR waveform structure and evaluate its performance onthe testbed. The algorithm can sustain almost twice the averagethroughput compared to the baseline."
+  authors: Ish Kumar Jain, Raghav Subbaraman, Tejas Harekrishna Sadarahalli, Xiangwei Shao, Hou-Wei Lin, Dinesh Bharadia
+  link:
+    url: https://mmnets.cse.sc.edu/program.html
+    display:  "[mmNets 2020]"
+  highlight: 1
+  tag1: communication
+  tag2: vehicular
+  news1: 
+  website: 
+    url: https://wcsng.ucsd.edu/mmobile/
+    display: "[Webpage]"
+  paper: 
+    url: files/mMobile.pdf
+    display: "[paper]"
+
+- title: "S3Net: Semantic-Aware Self-supervised Depth Estimation with Monocular Videos and Synthetic Data"
+  image: s3net.png
+  description: "Solving depth estimation with monocular cameras enables the possibility of widespread use of cameras as low-cost depth estimation sensors in applications such as autonomous driving and robotics. However, learning such a scalable depth estimation model would require a lot of labeled data which is expensive to collect. There are two popular existing approaches which do not require annotated depth maps: (i) using labeled synthetic and unlabeled real data in an adversarial framework to predict more accurate depth, and (ii) unsupervised models which exploit geometric structure across space and time in monocular video frames. Ideally, we would like to leverage features provided by both approaches as they complement each other; however, existing methods do not adequately exploit these additive benefits. We present S 3Net, a selfsupervised framework which combines these complementary features: we use synthetic and real-world images for training while exploiting geometric, temporal, as well as semantic constraints. Our novel consolidated architecture provides a new state-of-the-art in self-supervised depth estimation using monocular videos. We present a unique way to train this self-supervised framework, and achieve (i) more than 15% improvement over previous synthetic supervised approaches that use domain adaptation and (ii) more than 10% improvement over previous self-supervised approaches which exploit geometric constraints from the real data"
+  authors: Bin Cheng, Inderjot Singh Saggu, Raunak Shah, Gaurav Bansal, Dinesh Bharadia
+  link:
+    url: https://arxiv.org/pdf/2007.14511.pdf
+    display:  "[ECCV 2020]"
+  highlight: 1
+  tag1: vehicular
+  tag2: deeplearning
+  news1: 
+  website: 
+    url: https://arxiv.org/pdf/2007.14511.pdf
+    display: "[paper]"
+  paper: 
+    url: 
+    display: 
+
+
 - title: "A 28μW IoT Tag That Can Communicate with Commodity WiFi
  Transceivers via a Single-Side-Band QPSK Backscatter
  Communication Technique"
@@ -15,8 +52,10 @@ The device, which is housed in a chip smaller than a grain of rice, enables Inte
   news2: 
   website: 
     url: https://wcsng.ucsd.edu/ubiquitousIoT/
-    display: Ubiquitous IoT Project Page
-
+    display: "[Ubiquitous IoT Project Page]"
+  paper: 
+    url: files/ISSCC-talk.pdf
+    display: "[slides]"
 
 - title: "ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces"
   image: scattermimo.png
@@ -53,7 +92,7 @@ throughput improvement of 2x over the active AP alone."
   news1: Press cover by UCSD News, Hackster News 
   website: 
     url: https://wcsng.ucsd.edu/scattermimo/
-    display: ScatterMIMO-Webpage
+    display: "[ScatterMIMO-Webpage]"
   paper: 
     url: files/scattermimo.pdf
     display: "[paper]"
@@ -72,7 +111,7 @@ throughput improvement of 2x over the active AP alone."
   news2: 
   website: 
     url: https://wcsng.ucsd.edu/dloc/
-    display: DLoc-Webpage
+    display: "[DLoc-Webpage]"
   paper: 
     url: files/dloc.pdf
     display: "[paper]"
@@ -95,7 +134,7 @@ throughput improvement of 2x over the active AP alone."
   news2:
   website: 
     url: https://wcsng.ucsd.edu/locap/
-    display: LocAP-Webpage
+    display: "[LocAP-Webpage]"
   paper: 
     url: files/LocAP_paper.pdf
     display: "[paper]"
@@ -129,7 +168,7 @@ throughput improvement of 2x over the active AP alone."
   news2:
   website:
     url: https://github.com/ucsdsysnet/sparsdr
-    display: SparSDR Repository
+    display: "[SparSDR Repository]"
 
 - title: "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
   image: sweepsense.png
@@ -145,7 +184,7 @@ throughput improvement of 2x over the active AP alone."
   news2: 
   website:
     url: https://github.com/ucsdsysnet/SweepSense/tree/master
-    display: SweepSense Repository and Website
+    display: "[SweepSense Repository and Website]"
 
 - title: "SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception"
   image: signet.png
