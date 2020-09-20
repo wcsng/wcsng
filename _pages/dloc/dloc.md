@@ -100,8 +100,8 @@ Simultaneously the server on board the bot collects the CSI information and conv
 ## DLoc code and data
 While being the first in in Deep Learning based Indoor Navigation with WiFi data, we want to build WiFi CSI dataset on par with [ImageNet](http://www.image-net.org/) to assist further research in WiFi based indoor localization and their applications.
 
-### Datasets: TBD
-### DLoc code: TBD
+#### Download the <a href= "https://wcsng.ucsd.edu/wild">[Datasets]</a>
+
 
 
 
