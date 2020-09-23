@@ -14,7 +14,9 @@ Authors: Manideep Dunna, Chi Zhang, Daniel Sievenpiper, Dinesh Bharadia
 ```
 
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/scattermimo.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video]
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/scattermimo.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] <a href="https://youtu.be/V96rOy8-FF4">[Video]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V96rOy8-FF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Motivation
 In the last decade, the bandwidth expansion and MIMO spatial multiplexing have promised to increase data throughput by ordersof magnitude. However, we are yet to enjoy such improvementin real-world environments, as they lack rich scattering and pre-clude effective MIMO spatial multiplexing. 

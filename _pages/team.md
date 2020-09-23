@@ -338,7 +338,6 @@ Jump to [master's students](#masters-students), [undergrad students](#undergradu
 * Rohit Kulkarni (MS 2018) (Spectrum Sensing) (Now at Qualcomm, SD)
 
 
-
 ### UCSD Summer Research Internship Program (SRIP)
 #### Summer 2020
 * Keshav Rungta (BS)

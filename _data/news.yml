@@ -1,8 +1,11 @@
 - date: Sept 2020
+  headline: Two papers got accepted at Sensys'21. Stay tuned!
+
+- date: Sept 2020
   headline: IEEE Journal of Solid State Circuits (JSSC) accepted <a href="">A Low-Power Backscatter Modulation System Communicating Across Tens of Meters with Standards-Compliant Wi-Fi Transceivers. </a> Congrats Mani, Chi and team!
 
 - date: July 2020
-  headline: mmNets'20 workshop paper accepted <a href="https://wcsng.ucsd.edu/mmobile/">mMobile- Building a mmWave testbed to evaluate and address mobility effects. </a> Congrats Ish and team!
+  headline: mmNets workshop (Mobicom'20) paper accepted <a href="https://wcsng.ucsd.edu/mmobile/">mMobile- Building a mmWave testbed to evaluate and address mobility effects. </a> Congrats Ish and team!
 
 - date: June 2020
   headline: ECCV'20 paper got accepted on <a href="https://arxiv.org/pdf/2007.14511.pdf">S3Net- Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic Data.</a> Congrats Inderjot and team!

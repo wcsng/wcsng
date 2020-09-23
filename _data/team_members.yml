@@ -26,7 +26,7 @@
   email: yguddeti@eng.ucsd.edu
   number_educ: 2
   education1: Yeswanth is developing systems which explore new paradigms to interact with the RF spectrum for applications such as spectrum sensing and RF fingerprinting. Future projects include indoor AP synchronization for localization and distributed MIMO.
-  education2: "Highlights: NSDI'19, Mobisys'19"
+  education2: "Highlights: NSDI'19, Mobisys'19, Sensys'21"
 
 - name: Manideep Dunna
   photo: manideep.jpg
@@ -42,7 +42,7 @@
   email: ikjain@ucsd.edu
   number_educ: 2
   education1: Ish is working on millimeter wave communications to provide high reliability and low latency for applications such as virtual reality and vehicular communications.
-  education2: "Highlights: NSDI'20"
+  education2: "Highlights: NSDI'20, mmNets'20"
   education3:
   education4:
 
@@ -50,9 +50,9 @@
   photo: kshitiz.jpg
   info: PhD Student, started 2018
   email: ksbansal@eng.ucsd.edu
-  number_educ: 1
+  number_educ: 2
   education1:  Kshitiz's research interests include ML algorithms and their applications in communication networks, wireless systems and sensors. His current work involves the fusion of radar sensing and computer vision with primary focus on autonomous driving systems.
-  education2:
+  education2: "Highlights: Sensys'21"
   education3:
   education4:
 
@@ -72,7 +72,7 @@
   email: aarun@eng.ucsd.edu
   number_educ: 2
   education1:  Aditya's research currently focuses on realizing accurate indoor localization by introducing a new WiFi-based sensor modality using graph-based optimization techniques.
-  education2: "Highlights: NSDI'20"
+  education2: "Highlights: NSDI'20, Mobicom'20"
   education3:
   education4:
 
@@ -82,7 +82,7 @@
   email: rsubbaraman@eng.ucsd.edu
   number_educ: 2
   education1:  Raghav's research areas span spectrum sensing and development of robust wireless testbed platforms. He is particularly interested in understanding how sensing can influence control and orchestration of communication systems.
-  education2: "Highlights: NSDI'19"
+  education2: "Highlights: NSDI'19, mmNets'20"
   education3:
   education4:
 

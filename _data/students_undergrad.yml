@@ -28,8 +28,8 @@
   photo: rock.jpg
   info: Undergrad student since 2016 (joined WCSNG in 2019)
   project: Robotics and Radars
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1:  "Highlights: [Sensys'21]"
 
 - name: Karl Wang
   photo: rock.jpg
@@ -42,8 +42,8 @@
   photo: rock.jpg
   info: Undergrad student since 2016 (joined WCSNG in 2019)
   project: Radar point clouds
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: "Highlights: [Sensys'21]"
 
 
 #- name: Jason Ma
