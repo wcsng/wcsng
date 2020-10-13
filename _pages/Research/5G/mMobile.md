@@ -12,14 +12,16 @@ permalink: /mmobile/
 ```
 Authors: Ish Kumar Jain, Raghav Subbaraman, Tejas Harekrishna Sadarahalli, Xiangwei Shao, Hou-Wei Lin, Dinesh Bharadia
 ```
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/mmobile.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] [Video] <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/mmobile.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] <a href="https://youtu.be/5vfE90wR03Q">[Video]</a> <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>
 
-<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vfE90wR03Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <div class="well">
-<h3> WiFi Datasets News: </h3>
-<h4> 06/20/2020: We are releasing the largest location labelled WiFi CSI dataset, that can be accessed at <a href= "https://wcsng.ucsd.edu/wild">WILD</a> webpage.</h4>
+<h3> 5G user mobility Datasets News: </h3>
+<h5> Sept 2020: We release channel (CSI) measurements data collected from our mMobile testbed to encourage development and verification of novel mobility management algorithms for 5G New radio <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a></h5>
 </div>
--->
+
 
 ### Abstract
 Beamforming methods need to be critically evaluated and improved to achieve the promised performance of millimeter wave (mmWave) 5G NR in high mobility applications like Vehicle-to-Everything (V2X) communication. Conventional beam management methods developed for higher frequency applications do not directly carry over to the 28 GHz mmWave regime, where propagation and reflection characteristics are vastly different. Further, real system deployments and tests are required to verify these methods in a practical setting. In this work, we develop mMobile, a custom 5G NR compliant mmWave testbed to evaluate beam management algorithms. We describe the architecture and challenges in building such a testbed. We then create a novel, low-complexity beam tracking algorithm by exploiting the 5G NR waveform structure and evaluate its performance on the testbed. The algorithm can sustain almost twice the average throughput compared to the baseline.

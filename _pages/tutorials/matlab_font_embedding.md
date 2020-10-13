@@ -3,7 +3,7 @@ title: "WCSNG Logo"
 layout: gridlay
 excerpt: "WCSNG Logo"
 sitemap: false
-permalink: logo/
+permalink: matlab_font/
 ---
 
 # Embedding matlab fonts for publication

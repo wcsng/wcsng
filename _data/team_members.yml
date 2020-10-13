@@ -26,7 +26,7 @@
   email: yguddeti@eng.ucsd.edu
   number_educ: 2
   education1: Yeswanth is developing systems which explore new paradigms to interact with the RF spectrum for applications such as spectrum sensing and RF fingerprinting. Future projects include indoor AP synchronization for localization and distributed MIMO.
-  education2: "Highlights: NSDI'19, Mobisys'19, Sensys'21"
+  education2: "Highlights: NSDI'19, Mobisys'19, Sensys'20"
 
 - name: Manideep Dunna
   photo: manideep.jpg
@@ -34,7 +34,7 @@
   email: mdunna@ucsd.edu
   number_educ: 2
   education1: Manideep's research focuses on using backscatter techniques for low power wireless relays and in-body communications. 
-  education2: "Highlights: Mobicom'20"
+  education2: "Highlights: Mobicom'20, JSSC'20, ISSCC'21"
 
 - name: <a href='https://ishjain.github.io/'>Ish Kumar Jain</a>
   photo: ish.jpg
@@ -52,7 +52,7 @@
   email: ksbansal@eng.ucsd.edu
   number_educ: 2
   education1:  Kshitiz's research interests include ML algorithms and their applications in communication networks, wireless systems and sensors. His current work involves the fusion of radar sensing and computer vision with primary focus on autonomous driving systems.
-  education2: "Highlights: Sensys'21"
+  education2: "Highlights: Sensys'20"
   education3:
   education4:
 
@@ -67,7 +67,7 @@
   education4:
 
 - name: Aditya Arun
-  photo: aditya.jpg
+  photo: aditya.jpeg
   info: PhD Student, started 2019
   email: aarun@eng.ucsd.edu
   number_educ: 2

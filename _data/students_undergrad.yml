@@ -22,14 +22,14 @@
   info: Undergrad student since 2017 (joined WCSNG in 2019)
   project: Robotics and Indoor Navigation
   number_educ: 1
-  education1: "Highlight: Coauthor Mobicom'20, NSDI'20"
+  education1: "Highlight: Coauthor [Mobicom'20], [NSDI'20]"
 
 - name: Keshav Rungta
   photo: rock.jpg
   info: Undergrad student since 2016 (joined WCSNG in 2019)
   project: Robotics and Radars
   number_educ: 1
-  education1:  "Highlights: [Sensys'21]"
+  education1:  "Highlights: Coauthor [Sensys'20]"
 
 - name: Karl Wang
   photo: rock.jpg
@@ -43,7 +43,7 @@
   info: Undergrad student since 2016 (joined WCSNG in 2019)
   project: Radar point clouds
   number_educ: 1
-  education1: "Highlights: [Sensys'21]"
+  education1: "Highlights: Coauthor [Sensys'20]"
 
 
 #- name: Jason Ma

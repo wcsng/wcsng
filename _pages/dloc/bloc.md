@@ -14,7 +14,7 @@ Authors: Roshan Ayyalasomayajula, Deepak Vasisht, and Dinesh Bharadia
 ```
 
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/bloc_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/bloc-ppt.pdf" style="background-color: white; color: orange;">[Slides]</a> <a href="https://youtu.be/tC70Hs8cjwI" style="background-color: white; color: orange;">[Video]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/bloc_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/bloc-ppt.pdf" style="background-color: white; color: green;">[Slides]</a> <a href="https://youtu.be/tC70Hs8cjwI">[Video]</a>
 
 ### Motivation
 State of the art localization using Bluetooth Low Energy (BLE) devices uis based on RSSI, while Wi-Fi has achieved decimeter level localization using Channel State Information (CSI) based localization. With this work we bring CSI based sub-meter level accurate localization for BLE tags. We achieve this by enabling relative wideband CSI measurements for BLE devices with following three main contrinutions. Further details and implementaiton of BLoc can be found in our <a href="{{ site.url }}{{ site.baseurl }}/files/bloc_paper.pdf">paper</a> published in CoNEXT 2018.
