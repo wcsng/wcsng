@@ -48,7 +48,7 @@
 #   highlight: 1
 #   news2:
 
-- title: "Vehicular Sensing (Radar)"
+- title: "Vehicular Sensing"
   image: v2x.jpg
   description: Sensing for autonomous vehicles, toward multi-sensor fusion and robust radar imaging. 
   authors: 
