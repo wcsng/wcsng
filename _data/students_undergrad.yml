@@ -17,20 +17,6 @@
   number_educ: 0
   education1:
 
-- name: Chenfeng Wu
-  photo: rock.jpg
-  info: Undergrad student since 2017 (joined WCSNG in 2019)
-  project: Robotics and Indoor Navigation
-  number_educ: 1
-  education1: "Highlight: Coauthor [Mobicom'20], [NSDI'20]"
-
-- name: Keshav Rungta
-  photo: rock.jpg
-  info: Undergrad student since 2016 (joined WCSNG in 2019)
-  project: Robotics and Radars
-  number_educ: 1
-  education1:  "Highlights: Coauthor [Sensys'20]"
-
 - name: Karl Wang
   photo: rock.jpg
   info: Undergrad student since 2016 (joined WCSNG in 2019)
@@ -44,6 +30,13 @@
   project: Radar point clouds
   number_educ: 1
   education1: "Highlights: Coauthor [Sensys'20]"
+
+- name: Raini Wu
+  photo: rock.jpg
+  info: Undergrad student since 2019 (joined WCSNG in 2019)
+  project: Virtual Reality
+  number_educ: 0
+  education1: "Highlights: Coauthor "
 
 
 #- name: Jason Ma

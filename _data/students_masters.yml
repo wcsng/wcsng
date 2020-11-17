@@ -37,6 +37,61 @@
   number_educ: 0
   education1: 
 
+- name: Yeswanth Guntupalli
+  photo: rock.jpg
+  info: Master student since 2019
+  project: Full Duplex Radios
+  number_educ: 0
+  education1: 
+
+- name: Chenfeng Wu
+  photo: rock.jpg
+  info: UG since 2016, MS since 2020 (joined WCSNG in 2019)
+  project: Robotics and Indoor Navigation
+  number_educ: 1
+  education1: "Highlight: Coauthor [Mobicom'20], [NSDI'20]"
+
+- name: Keshav Rungta
+  photo: rock.jpg
+  info: UG since 2016, MS since 2020 (joined WCSNG in 2019)
+  project: Robotics and Radars
+  number_educ: 1
+  education1:  "Highlights: Coauthor [Sensys'20]"
+
+- name: Hou-Wei Lin
+  photo: rock.jpg
+  info: Master student since 2019
+  project: Millimeter wave
+  number_educ: 1
+  education1: "Highlights: Coauthor [MMNets'20]"
+
+- name: Navin Adarsh
+  photo: rock.jpg
+  info: Master student since 2019
+  project: Virtual Reality
+  number_educ: 0
+  education1: 
+
+- name: Xiangwei Shao
+  photo: rock.jpg
+  info: Master student since 2019
+  project: Millimeter wave 
+  number_educ: 1
+  education1: "Highlights: Coauthor [MMNets'20]"
+
+- name: Nitish Kulshrestha
+  photo: rock.jpg
+  info: Master student since 2019
+  project: Backscatter
+  number_educ: 0
+  education1: 
+
+- name: Sanjeev
+  photo: rock.jpg
+  info: Master student since 2020
+  project: Backscatter
+  number_educ: 0
+  education1: 
 
 
 
