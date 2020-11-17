@@ -1,3 +1,54 @@
+- title: "DroneScale: Drone Load Estimation Via Remote Passive RF Sensing"
+  image: dronescale.png
+  description: "Drones have carried weapons, drugs, explosives and illegal packages in the recent past, raising strong concerns from public authorities. While existing drone monitoring systems only focus on detecting drone presence, localizing or fingerprinting the drone, there is a lack of a solution for estimating the additional load carried by a drone. In this paper, we present a novel passive RF system, namely DroneScale, to monitor the wireless signals transmitted by commercial drones and then confirm their models and loads. Our key technical contribution is a proposed technique to passively capture vibration at high resolution (i.e., 1Hz vibration) from afar, which was not possible before. We prototype DroneScale using COTS RF components and illustrate that it can monitor the body vibration of a drone at the targeted resolution. In addition, we develop learning algorithms to extract the physical vibration of the drone from the transmitted signal to infer the model of a drone and the load carried by it. We evaluate the DroneScale system using 5 different drone models, which carry external loads of up to 400g. The experimental results show that the system is able to estimate the external load of a drone with an average accuracy of 96.27%. We also analyze the sensitivity of the system with different load placements with respect to the drone’s body, flight modes, and distances up to 200 meters." 
+  authors: "Phuc Nguyen (University of Texas at Arlington; University of Colorado Boulder); Vimal Kakaraparthi, Nam Bui, Nikshep Umamahesh (University of Colorado Boulder); Nhat Pham (University of Colorado Boulder; University of Oxford); Hoang Truong (University of Colorado Boulder); Yeswanth Guddeti, Dinesh Bharadia (University of California San Diego); Eric Frew, Richard Han, Daniel Massey (University of Colorado Boulder); Tam Vu (University of Colorado Boulder; University of Oxford)"
+  link:
+    url: http://sensys.acm.org/2020/program/
+    display:  "[Sensys 2020]"
+  highlight: 1
+  tag1: vehicular
+  tag2: 
+  news1: 
+  website: 
+    url: http://mnslab.org/tamvu/paper/2020%20DroneScale_Phuc.pdf
+    display: "[paper]"
+
+
+- title: "Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars"
+  image: pointillism2.png
+  description: "Autonomous perception requires high-quality environment sensing
+in the form of 3D bounding boxes of dynamic objects. The primary
+sensors used in automotive systems are light-based cameras and
+LiDARs. However, they are known to fail in adverse weather conditions.
+Radars can potentially solve this problem as they are barely
+affected by adverse weather conditions. However, specular reflections
+of wireless signals cause poor performance of radar point
+clouds.We introduce Pointillism, a system that combines data from
+multiple spatially separated radars with an optimal separation to
+mitigate these problems. We introduce a novel concept of Cross
+Potential Point Clouds, which uses the spatial diversity induced by
+multiple radars and solves the problem of noise and sparsity in radar
+point clouds. Furthermore, we present the design of RP-net, a novel
+deep learning architecture, designed explicitly for radar’s sparse
+data distribution, to enable accurate 3D bounding box estimation.
+The spatial techniques designed and proposed in this paper are
+fundamental to radars point cloud distribution and would benefit
+other radar sensing applications."
+  authors: Kshitiz Bansal, Keshav Rungta, Siyuan Zhu and Dinesh Bharadia
+  link:
+    url: http://sensys.acm.org/2020/program/
+    display:  "[Sensys 2020]"
+  highlight: 1
+  tag1: vehicular
+  tag2: 
+  news1: 
+  website: 
+    url: https://wcsng.ucsd.edu/pointillism/
+    display: "[Webpage]"
+  paper: 
+    url: files/Pointillism_paper.pdf
+    display: "[paper]"
+
 - title: "mMobile: Building a mmWave testbed to evaluate and address mobility effects"
   image: mMobile.png
   description: "Beamforming methods need to be critically evaluated and improvedto achieve the promised performance of mmWave 5G-NR in highmobility applications like Vehicle-to-Everything (V2X) communi-cation. Conventional beam management methods developed forhigher frequency applications do not directly carry over to the 28GHz mmWave regime, where propagation and reflection character-istics are vastly different. Further, real system deployments and testsare required to verify these methods in a practical setting. In thiswork, we develop mMobile, a custom 5G-NR compliant mmWavetestbed to evaluate beam management algorithms. We describe thearchitecture and challenges in building such a testbed. We then cre-ate a novel, low-complexity beam tracking algorithm by exploitingthe 5G-NR waveform structure and evaluate its performance onthe testbed. The algorithm can sustain almost twice the averagethroughput compared to the baseline."
