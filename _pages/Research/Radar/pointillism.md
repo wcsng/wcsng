@@ -94,6 +94,15 @@ LiDAR, Depth camera combined synchronously to common clock.
 <br>
 <br>
 
+### Supporters
+<div class="col-sm-5 clearfix">
+  <a href="https://ti.com"><img src="https://www.ti.com/content/dam/ticom/images/identities/ti-brand/ti-stk-2c-pos-rgb-logo.png" width="40%" style="float: left" > </a>
+
+  <a href="https://toyota.com"><img src="https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200.png" width="40%" style="float: center" > </a>
+
+  <a href="https://qualcomm.com"><img src="https://i.pinimg.com/originals/ba/68/1b/ba681b818f8160b96b29b41d8a639f2c.jpg" width="40%" style="float: right" > </a>
+</div>
+
 
 
 
