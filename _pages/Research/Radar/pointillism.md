@@ -12,11 +12,11 @@ permalink: /pointillism/
 ```
 Authors: Kshitiz Bansal, Keshav Rungta, Siyuan Zhu and Dinesh Bharadia
 ```
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/Pointillism_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] <a href="https://www.youtube.com/watch?v=drZR-Lgpqww&list=PL6jLuiS6wP5Y15NUvvfaQPAtqN7NQm30n&index=3">[Video]</a> 
+#### <a href="https://dl.acm.org/doi/10.1145/3384419.3430783" style="background-color: white; color: orange;">[Paper]</a>[Slides] <a href="https://www.youtube.com/watch?v=jiAEwyHjPZs&amp;feature=youtu.be">[Video]</a> 
 
-<!--<a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>-->
+<!--<a href="{{ site.url }}{{ site.baseurl }}/files/Pointillism_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/drZR-Lgpqww" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jiAEwyHjPZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="well">
 <h3> Datasets News: </h3>
@@ -115,5 +115,11 @@ The 18th ACM Conference on Embedded Networked Sensor Systems (SenSys
 
 
 
+
+<div class="well">
+<h3> <font color="red">Press cover:</font>  </h3>
+<h4> 11/20/2020:  <a style="display: inline-block;" href="https://www.10news.com/news/local-news/uc-san-diego-researchers-find-ways-to-make-self-driving-cars-safer">10News.com: UC San Diego researchers find ways to make self-driving cars safer</a> </h4>
+<h4> 11/17/2020:  <a style="display: inline-block;" href="https://www.sciencedaily.com/releases/2020/11/201117192605.htm#:~:text=2-,Upgraded%20radar%20can%20enable%20self%2Ddriving%20cars%20to,clearly%20no%20matter%20the%20weather&text=Electrical%20engineers%20at%20the%20University,of%20objects%20in%20the%20scene.">ScienceDaily</a> and  <a style="display: inline-block;" href="https://jacobsschool.ucsd.edu/news/release?id=3161">UCSD News</a>: Upgraded radar can enable self-driving cars to see clearly no matter the weather. </h4>
+</div>
 
 
