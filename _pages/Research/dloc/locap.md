@@ -14,7 +14,9 @@ Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Shrivatsan Rajagopal
 ```
 
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_paper.pdf" style="background-color: white; color: orange;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_NSDI_slides.pdf" style="background-color: white; color: orange;">[Slides]</a> <a href="https://youtu.be/ZErYjC4Em5o" style="background-color: white; color: orange;">[Video]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_paper.pdf" style="background-color: white; color: #BA4A00;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/LocAP_NSDI_slides.pdf" style="background-color: white; color: purple;">[Slides]</a> <a href="https://youtu.be/ZErYjC4Em5o" style="background-color: white; color: blue;">[Video]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZErYjC4Em5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Motivation
 Indoor localization has been studied for nearly two decades fueled by wide interest in indoor navigation, achieving the necessary decimeter-level accuracy. However, there are no real-world deployments of WiFi-based user localization algorithms, primarily because these algorithms are infrastructure dependent and therefore assume the location of the Access Points, their antenna geometries, and deployment orientations in the physical map. In the real world, such detailed knowledge of the location attributes of the access point is seldom available, thereby making WiFi localization hard to deploy. 
@@ -46,8 +48,5 @@ LocAP is deployed on an autonomous bot which hosts a Lidar and a WiFi client. Th
 
 ***
 
-### Watch the Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZErYjC4Em5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-***
 
 #### See similar papers: <a href="{{ site.url }}{{ site.baseurl }}/dloc" style="background-color: white; color: blue;">DLoc (deep learning based localization)</a>

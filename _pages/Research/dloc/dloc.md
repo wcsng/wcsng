@@ -12,7 +12,7 @@ permalink: /dloc/
 ```
 Authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi, Deepak Vasisht, Dinesh Bharadia
 ```
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] <a href="https://youtu.be/b19C7U9jNFs">[Video]</a> <a href= "https://wcsng.ucsd.edu/wild">[Datasets]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/dloc.pdf" style="background-color: white; color: #BA4A00;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/DLoc-ppt.pdf" style="background-color: white; color: purple;">[Slides]</a> <a href="https://youtu.be/b19C7U9jNFs">[Video]</a> <a href= "https://wcsng.ucsd.edu/wild" style="color:green">[Datasets]</a>
 
 <div class="well">
 <h3> WiFi Datasets News: </h3>

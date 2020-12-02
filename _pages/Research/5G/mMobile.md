@@ -12,7 +12,7 @@ permalink: /mmobile/
 ```
 Authors: Ish Kumar Jain, Raghav Subbaraman, Tejas Harekrishna Sadarahalli, Xiangwei Shao, Hou-Wei Lin, Dinesh Bharadia
 ```
-#### <a href="{{ site.url }}{{ site.baseurl }}/files/mmobile.pdf" style="background-color: white; color: orange;">[Paper]</a> [Slides] <a href="https://youtu.be/5vfE90wR03Q">[Video]</a> <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/files/mmobile.pdf" style="background-color: white; color: #BA4A00;">[Paper]</a> <a href="{{ site.url }}{{ site.baseurl }}/files/mMobile_slides.pdf" style=" color: purple;">[Slides]</a> <a href="https://youtu.be/5vfE90wR03Q">[Video]</a> <a href="https://github.com/ucsdwcsng/mMobile" style="background-color: white; color: green;">[Datasets]</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vfE90wR03Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
