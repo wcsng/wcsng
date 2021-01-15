@@ -218,8 +218,11 @@ throughput improvement of 2x over the active AP alone."
   tag2: 
   news2:
   website:
-    url: https://github.com/ucsdsysnet/sparsdr
-    display: "[SparSDR Repository]"
+    url: https://wcsng.ucsd.edu/sparsdr/
+    display: "[SparSDR Webpage]"
+  paper:
+    url: http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf
+    display: "[paper]"
 
 - title: "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
   image: sweepsense.png
